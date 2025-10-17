@@ -6,12 +6,20 @@ interface Props {
 }
 
 const { currentPage, totalPages, baseUrl } = Astro.props;
+
+// Helper function to get the correct URL for a page
+const getPageUrl = (pageNum: number) => {
+  if (pageNum === 1) {
+    return baseUrl; // First page is just the base URL (e.g., /blog/)
+  }
+  return `${baseUrl}${pageNum}`; // Other pages include the number (e.g., /blog/2)
+};
 ---
 
 <nav class="flex justify-center gap-4 mt-12">
   {currentPage > 1 && (
     <a
-      href={`${baseUrl}${currentPage - 1}`}
+      href={getPageUrl(currentPage - 1)}
       class="px-4 py-2 bg-gray-100 dark:bg-gray-800 rounded hover:bg-gray-200 dark:hover:bg-gray-700"
     >
       Previous
@@ -19,7 +27,7 @@ const { currentPage, totalPages, baseUrl } = Astro.props;
   )}
   {currentPage < totalPages && (
     <a
-      href={`${baseUrl}${currentPage + 1}`}
+      href={getPageUrl(currentPage + 1)}
       class="px-4 py-2 bg-gray-100 dark:bg-gray-800 rounded hover:bg-gray-200 dark:hover:bg-gray-700"
     >
       Next
