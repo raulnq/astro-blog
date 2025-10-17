@@ -1,5 +1,5 @@
 ---
-title: "React Comp 2025 Reshapes Development: New Hooks, Compiler 1.0, and Independent Governance Announced"
+title: "React Conf 2025 Reshapes Development: New Hooks, Compiler 1.0, and Independent Governance Announced"
 description: "React's annual conference, React Conf 2025, has introduced significant updates poised to redefine development practices. Discover how new APIs, a stable compiler, and organizational changes aim to address long-standing challenges within the ecosystem."
 date: 2025-10-17
 tags: ["react","frontend","javascript","web-development","react-compiler"]
