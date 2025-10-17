@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare Workers Undergo Massive Performance Overhaul After Developer Benchmarks"
-description: "Independent developer benchmarks exposed significant performance gaps in Cloudflare Workers, triggering an intensive "hack week" by Cloudflare's engineering team that resulted in up to 3x speed improvements and critical upstream contributions to the JavaScript ecosystem."
+description: "Independent developer benchmarks exposed significant performance gaps in Cloudflare Workers, triggering an intensive hack week by Cloudflare's engineering team that resulted in up to 3x speed improvements and critical upstream contributions to the JavaScript ecosystem."
 date: 2025-10-17
 tags: ["cloudflare","workers","performance","javascript","v8"]
 source: "https://www.youtube.com/watch?v=g0wXXJ_VZlY"
