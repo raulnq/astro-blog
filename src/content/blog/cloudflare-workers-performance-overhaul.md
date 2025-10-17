@@ -1,0 +1,10 @@
+---
+title: "Cloudflare Workers Undergo Massive Performance Overhaul After Developer Benchmarks"
+description: "Independent developer benchmarks exposed significant performance gaps in Cloudflare Workers, triggering an intensive "hack week" by Cloudflare's engineering team that resulted in up to 3x speed improvements and critical upstream contributions to the JavaScript ecosystem."
+date: 2025-10-17
+tags: ["cloudflare","workers","performance","javascript","v8"]
+source: "https://www.youtube.com/watch?v=g0wXXJ_VZlY"
+---
+Independent developer Theo Brown's recent benchmarks comparing Cloudflare Workers against Vercel revealed significant performance disparities, with Cloudflare Workers sometimes trailing by as much as 3.5x and exhibiting high latency variability. These findings "nerd sniped" the Cloudflare Workers team, prompting an immediate, week-long internal "hack week" led by the CTO to address the reported issues. The concentrated effort has resulted in Cloudflare announcing up to a 3x performance improvement across various benchmarks, notably enhancing worker cold start times and overall stability.
+
+Cloudflare's deep dive uncovered several critical areas for optimization. These included refining their scheduling algorithm to better handle CPU-heavy, bursty workloads by spinning up new V8 isolates more efficiently, and updating an outdated V8 garbage collector tuning setting from 2017 that was causing excessive memory reclamation. Significant improvements were also made to the OpenNext adapter for Cloudflare, eliminating unnecessary buffer allocations, copies, and inefficient Node.js to Web Streams API conversions. Beyond platform-specific fixes, Cloudflare contributed upstream patches to V8, speeding up `JSON.parse` with reviver functions by up to 33% and addressing a Node.js trigonometry performance anomaly by enabling a faster V8 compile-time flag. These broader ecosystem contributions highlight Cloudflare's commitment to improving the entire JavaScript runtime landscape, with Brown acknowledging the substantial positive impact derived from his initial, sometimes imperfect, benchmarking methodology.
