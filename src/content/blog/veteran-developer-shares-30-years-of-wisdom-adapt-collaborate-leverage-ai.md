@@ -1,0 +1,10 @@
+---
+title: "30 Years In The Trenches: Veteran Developer's Core Advice for Modern Coders"
+description: "A seasoned developer with three decades of experience offers critical insights for navigating the ever-evolving software landscape. Learn why adapting to new tech, mastering soft skills, and viewing languages as mere tools are paramount for success."
+date: 2025-10-24
+tags: ["software development","developer skills","ai in tech","career advice","programming languages"]
+source: "https://www.youtube.com/watch?v=m9sRtCsNUoM"
+---
+Drawing from 30 years in professional software development, a veteran known as 'Uncle Steph' emphasizes continuous adaptation as the cornerstone of a successful career. He stresses the critical importance of embracing technological shifts, citing the current rise of low-code/no-code platforms and Artificial Intelligence as prime examples of significant opportunity. Whether through AI-assisted development or building AI-first applications—like his personal custom GPT—he asserts that current developers have unprecedented opportunities, advising against resisting the inevitable tide of innovation and instead, leveraging these advancements for career growth.
+
+Beyond technical prowess, 'Uncle Steph' underscores the paramount importance of developing robust soft skills, including clear communication, empathy, and a collaborative mindset. He notes that recruiters frequently rank interpersonal compatibility and communication ability as top considerations for hiring. Furthermore, the advice advocates for treating programming languages as utilitarian tools rather than objects of unwavering loyalty. Developers are encouraged to remain language-agnostic, adapting their toolkit to project requirements rather than adhering rigidly to a favored syntax. Finally, he dispels the notion of 'cheating' when utilizing existing libraries, AI, or low-code/no-code platforms. Instead, he asserts that efficient development involves leveraging all available resources to solve problems, rather than exclusively coding from scratch, thereby optimizing time and project delivery.
