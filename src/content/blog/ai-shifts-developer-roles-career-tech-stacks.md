@@ -1,6 +1,6 @@
 ---
 title: "AI Shifts Developer Roles: Deep Expertise Valued Amidst Productivity Gains and Job Market Challenges"
-description: "A recent live AMA explored the evolving landscape of software development, focusing on AI's transformative impact on developer roles, career trajectories, and essential tech stacks. Insights reveal a cautious optimism, emphasizing skill depth and strategic tool adoption."
+description: "A recent live AMA(ask me anything) explored the evolving landscape of software development, focusing on AI's transformative impact on developer roles, career trajectories, and essential tech stacks. Insights reveal a cautious optimism, emphasizing skill depth and strategic tool adoption."
 date: 2025-10-25
 tags: ["ai","software-development","career-advice","tech-stacks","developer-jobs"]
 source: "https://www.youtube.com/watch?v=jTLHJYSDT-8"
