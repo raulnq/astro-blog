@@ -1,0 +1,10 @@
+---
+title: "New 'Ton' Format Drastically Cuts LLM Token Costs by Streamlining Data Serialization"
+description: "Johan Scopic has unveiled 'Ton,' a novel open-source data format engineered to significantly reduce token consumption for Large Language Models. This innovation promises substantial cost savings and improved efficiency for LLM-powered applications."
+date: 2025-10-31
+tags: ["llms","data-serialization","token-efficiency","open-source","ton"]
+source: "https://www.youtube.com/watch?v=O1Ipl2ge-PQ"
+---
+Johan Scopic has introduced Ton (Token Oriented Object Notation), an innovative, open-source data format specifically designed to optimize interactions with Large Language Models (LLMs). Recognizing JSON's inherent inefficiencies due to its verbose syntax—characterized by repetitive braces, quotes, and symbols—Ton aims to dramatically reduce token consumption. Early benchmarks suggest Ton can achieve a 40-60% reduction in tokens compared to JSON for the same data, while remaining human-readable and easily tokenizable by LLMs.
+
+The core innovation of Ton lies in its minimalist syntax, which largely eschews traditional delimiters like curly braces and quotation marks, thereby substantially decreasing the number of tokens an LLM needs to process. A practical demonstration highlighted that a JSON payload consuming 51 tokens could be represented in Ton format using approximately half the tokens, translating directly into lower operational costs for LLM applications. While data serialization optimization is not a new concept—with alternatives like MessagePack offering binary efficiency—Ton distinguishes itself by maintaining legibility while achieving significant token savings. Developers considering Ton will need to evaluate the trade-offs between token cost reduction and potential encoding/decoding performance penalties to determine its overall viability for their specific use cases. The project is gaining traction, currently boasting over 100 stars on GitHub, signaling a strong community interest in this approach to LLM optimization.
