@@ -1,6 +1,6 @@
 ---
 title: "Dominic Galloway Unveils Ripple: A New TypeScript UI Framework Blending Svelte and React"
-description: "A decade after Inferno, Dominic Galloway introduces Ripple, a compiler-driven UI framework blending React and Svelte with a unique JSX superset. This new contender challenges the modern JavaScript ecosystem, possibly reviving the infamous "JavaScript fatigue.""
+description: "A decade after Inferno, Dominic Galloway introduces Ripple, a compiler-driven UI framework blending React and Svelte with a unique JSX superset. This new contender challenges the modern JavaScript ecosystem, possibly reviving the infamous 'JavaScript fatigue.'"
 date: 2025-11-06
 tags: ["javascript","ui-framework","ripple","dominic-galloway","typescript"]
 source: "https://www.youtube.com/watch?v=IIj9UWpvSFI"
