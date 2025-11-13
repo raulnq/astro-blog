@@ -1,0 +1,10 @@
+---
+title: "Legacy Software Dilemma: When to Fix an Intermittent Bug and When to Let It Go"
+description: "A veteran developer shares a common challenge: deciding whether to invest significant resources in fixing an intermittent, non-detrimental bug in a mature legacy application. This case study highlights the complex trade-offs product owners face between code purity and strategic business priorities."
+date: 2025-11-13
+tags: ["legacy software","bug fixing","technical debt","product management","prioritization"]
+source: "https://www.youtube.com/watch?v=fCIKVpNz1d4"
+---
+A seasoned developer recently articulated a pervasive challenge in software maintenance: the strategic dilemma of addressing rare, non-critical bugs in mature, stable applications. The issue stems from an intermittent bug affecting an older application, occurring only once every two to three months and impacting a minimal fraction of the user base. The developer suspects the root cause to be a recent server change or security feature update, disrupting certain form submissions. Despite the application's overall stability—operating at an impressive 99.95% uptime—this sporadic glitch presents a significant decision point for product owners.
+
+The estimated cost to thoroughly investigate and rectify this "weird intermittent bug" is substantial, ranging from $1,500 to $3,000 in man-hours. Given the bug's low frequency, minimal user impact (users typically bypass it and move on), and non-detrimental nature, the core question becomes one of cost-benefit analysis. The developer queried, "Is it worth going through the trouble to fix this weird intermittent bug on legacy software that impacts a very small fraction of people?" This perspective underscores a pragmatic stance on technical debt and resource allocation, suggesting that while "code purity" is an ideal, strategic business priorities often necessitate deferring minor fixes in favor of more impactful development efforts, particularly when user complaints remain low. The current approach is to monitor complaint volume, deferring a fix unless the impact on the user base significantly increases.
