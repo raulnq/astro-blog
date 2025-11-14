@@ -1,5 +1,5 @@
 ---
-title: "Veteran Developer Debunks 'Math Myth' in Coding: Communication, Architecture Trump Calculus for Most"
+title: "Veteran Developer Debunks 'Math Myth' in Coding"
 description: "A seasoned developer with decades of commercial experience challenges the prevailing notion that advanced mathematical proficiency is essential for most software engineers. The discussion highlights architectural, communication, and organizational skills as far more critical in modern development."
 date: 2025-11-11
 tags: ["software development","developer skills","career advice","tech education","programming myths"]
