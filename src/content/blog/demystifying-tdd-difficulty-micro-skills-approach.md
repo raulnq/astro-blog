@@ -1,0 +1,12 @@
+---
+title: "Unpacking TDD's Challenge: A Micro-Skills Framework for Software Development"
+description: "Despite its logical appeal, Test-Driven Development (TDD) remains a struggle for many developers. A new perspective redefines TDD as a complex interplay of numerous 'micro skills,' explaining common adoption hurdles and outlining a path to mastery."
+date: 2025-11-19
+tags: ["tdd","software development","micro skills","developer productivity","technical coaching"]
+source: "https://www.youtube.com/watch?v=tmOMJhZhIFI"
+---
+Test-Driven Development (TDD), an approach advocating for writing tests before implementation, often proves elusive for software developers. While logically sound—designing for testability should simplify testing compared to retrofitting—many struggle to integrate TDD effectively. Emily B., a software developer and creator of Salmon Coaching, argues that TDD's perceived difficulty stems from a misunderstanding: it's not a single skill, but a sophisticated aggregate of many 'micro skills.'
+
+The TDD cycle—formulating a test list, writing a failing test, writing minimal code to pass, and refactoring—demands proficiency in broad areas like test case design and system design. Digging deeper, even the initial step of designing a failing executable test case encompasses nuanced micro skills such as choosing test names, expressing behavioral intent in code, designing testable interfaces, and interpreting design feedback. Emily B. highlights that TDD, unlike the seemingly easier 'test last' approach which leverages familiar skills like mocking frameworks for untestable designs, requires a unique set of micro skills that are often new to developers. These skills are rarely explicitly taught, contributing to the high abandonment rate among those attempting TDD.
+
+Mastering TDD, therefore, is framed as a long-term process of acquiring numerous micro skills, potentially spanning an entire career. Drawing inspiration from Marian Hartman's Green Path skill acquisition model, Emily B. explains how developers can get stuck when faced with too many new micro skills simultaneously. To overcome this, she advocates for targeted learning, breaking down complex TDD problems, seeking peer support or coaching, and leveraging resources like code katas to build fluency. The emphasis is on accumulating a critical mass of foundational micro skills to handle common scenarios, while fostering an environment where developers can seek help when encountering novel challenges, ultimately making TDD a sustainable practice.
