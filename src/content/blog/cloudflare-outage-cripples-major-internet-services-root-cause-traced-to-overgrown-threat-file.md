@@ -1,0 +1,10 @@
+---
+title: "Cloudflare Outage Cripples Major Internet Services, Root Cause Traced to Overgrown Threat File"
+description: "Cloudflare, a linchpin of internet infrastructure, experienced a widespread outage affecting millions of websites and critical services. The incident, the third major disruption this year, was traced to a bloated configuration file."
+date: 2025-11-19
+tags: ["cloudflare","outage","infrastructure","network-stability","dns"]
+source: "https://www.youtube.com/watch?v=tF_4baiIUiQ"
+---
+On November 18, 2025, Cloudflare's global network experienced a significant "internal service degradation" starting around 6:00 a.m. Eastern time, leading to widespread internet disruption. Millions of websites and critical online platforms, including X (formerly Twitter), OpenAI's ChatGPT, Down Detector, and even game servers like League of Legends, displayed Cloudflare error pages. The outage's impact was so pervasive that users reported being unable to access essential services, and Cloudflare's own status page was reduced to basic HTML functionality. This incident marks the third major internet infrastructure failure this year, following previous outages involving other prominent cloud providers.
+
+Initially, Cloudflare's CTO attributed the issue to a latent bug within a service underpinning their bot mitigation capability, which crashed after a routine configuration change and cascaded across their network. Hours later, the definitive root cause was revealed: a configuration file, automatically generated to manage threat traffic, grew beyond its expected size. This oversized file triggered a critical crash in the software system responsible for handling traffic across several Cloudflare services. The incident underscores the inherent fragility of the internet's increasingly centralized architecture, where the failure of a single, highly relied-upon provider like Cloudflare can cause massive, cascading disruptions across a vast segment of the digital landscape.
