@@ -1,5 +1,5 @@
 ---
-title: "Google Stages Historic AI Comeback: Gemini 3 Dominates Benchmarks, Unveils Agentic Coding Platform "Anti-gravity""
+title: "Google Stages Historic AI Comeback: Gemini 3 Dominates Benchmarks, Unveils Agentic Coding Platform Anti-gravity"
 description: "After an initial stumble with Bard, Google's Gemini 3 Pro has repositioned the company as an AI leader, sweeping major benchmarks and fueling an innovative agentic development platform. This marks a significant pivot in the ongoing AI competition."
 date: 2025-11-21
 tags: ["ai","google","gemini","agentic-coding","software-development"]
