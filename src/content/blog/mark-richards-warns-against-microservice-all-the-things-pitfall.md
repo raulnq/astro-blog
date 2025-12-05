@@ -1,5 +1,5 @@
 ---
-title: "Mark Richards Unpacks the "Microservice All The Things" Pitfall, Advocates for Strategic Architecture First"
+title: "Mark Richards Unpacks the 'Microservice All The Things' Pitfall, Advocates for Strategic Architecture First"
 description: "Software architecture expert Mark Richards highlights the dangers of universal microservice adoption from project inception, proposing a phased architectural approach for optimal system design. He reveals how starting with a Service-Based Architecture can mitigate complexity and cost, reserving microservices for where they truly add value."
 date: 2025-11-30
 tags: ["microservices","software-architecture","pitfalls","service-based-architecture","system-design"]

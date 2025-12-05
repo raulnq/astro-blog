@@ -1,6 +1,6 @@
 ---
-title: "Veteran Developer "Uncle Steph" Underscores Code Simplicity as Cornerstone of Software Longevity"
-description: "Drawing from 30 years of professional development, "Uncle Steph" articulates why maintaining simple code is crucial for successful and maintainable software projects. This article explores his practical strategies for achieving code clarity and the pitfalls of complexity."
+title: "Veteran Developer 'Uncle Steph' Underscores Code Simplicity as Cornerstone of Software Longevity"
+description: "Drawing from 30 years of professional development, 'Uncle Steph' articulates why maintaining simple code is crucial for successful and maintainable software projects. This article explores his practical strategies for achieving code clarity and the pitfalls of complexity."
 date: 2025-11-24
 tags: ["software-development","code-quality","refactoring","clean-code","best-practices"]
 source: "https://www.youtube.com/watch?v=nLzoLT4GTjU"

@@ -1,5 +1,5 @@
 ---
-title: "Leading Tech Voice Lambasts AI Media Generation as "Cringe," Citing Suno's Valuation and Industry Disconnect"
+title: "Leading Tech Voice Lambasts AI Media Generation as Cringe, Citing Suno's Valuation and Industry Disconnect"
 description: "A prominent tech personality and AI commentator sharply criticizes current AI media generation tools, arguing they undermine creative industries by seeking to replace professional toolboxes rather than augment them. The critique highlights a perceived lack of understanding from AI companies regarding the nuances of creative work."
 date: 2025-11-30
 tags: ["ai","media-generation","music-tech","creator-economy","software-development"]

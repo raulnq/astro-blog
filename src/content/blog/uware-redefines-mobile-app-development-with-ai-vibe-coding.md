@@ -1,6 +1,6 @@
 ---
 title: "YouWare Redefines Mobile App Development with AI-Powered 'Vibe Coding'"
-description: "YouWare emerges as a disruptive force in the app development landscape, enabling users to "vibe code" applications directly from their smartphones using advanced AI. This innovative platform streamlines the creation process from concept to shareable project, fostering rapid prototyping and learning."
+description: "YouWare emerges as a disruptive force in the app development landscape, enabling users to 'vibe code' applications directly from their smartphones using advanced AI. This innovative platform streamlines the creation process from concept to shareable project, fostering rapid prototyping and learning."
 date: 2025-11-27
 tags: ["ai-development","mobile-coding","generative-ai","rapid-prototyping","low-code"]
 source: "https://www.youtube.com/watch?v=T_Jx7VdByK8"
