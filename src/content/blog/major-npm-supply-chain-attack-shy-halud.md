@@ -2,7 +2,7 @@
 title: "Shai Hulud Supply Chain Attack Rocks npm Ecosystem, Exploiting GitHub Actions for Widespread Compromise"
 description: "A sophisticated supply chain attack, dubbed Shai Hulud, has compromised over 500 npm packages, leveraging GitHub Actions vulnerabilities to exfiltrate secrets and propagate malicious code. This incident marks a critical shift from theoretical threats to confirmed real-world impact across major tech vendors."
 date: 2025-11-29
-tags: ["npm","supply-chain-attack","github-actions","security","ci/cd"]
+tags: ["npm","supply-chain-attack","github-actions","security","ci-cd"]
 source: "https://www.youtube.com/watch?v=weLhik7ArCY"
 ---
 The npm ecosystem is reeling from the Shai Hulud supply chain attack, which has compromised over 500 packages and 700 versions, marking a significant escalation from theoretical threats to actual damage. Major vendors including Zapier, Async API, Postman, PostHog, and ENS domains have been affected, with PostHog confirming a direct compromise via account takeovers. The attack leverages a sophisticated two-stage payload, initiated by a malicious `pre-install` script (`setup_bun.js`) added to `package.json` files. This script stealthily installs or locates the Bun runtime to execute a 10MB obfuscated payload (`environment.js`) in the background, suppressing all output to evade detection. This highly capable malware then seeks to exfiltrate sensitive data, including environment variables, hard-coded secrets (via `trufflehog`), and cloud provider API keys (AWS, GCP, Azure) through aggressive regional enumeration, alongside GitHub Action secrets.
