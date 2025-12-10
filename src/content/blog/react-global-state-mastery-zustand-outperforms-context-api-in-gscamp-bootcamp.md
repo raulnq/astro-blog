@@ -1,0 +1,10 @@
+---
+title: "Zustand Takes Center Stage in GSCAMP Bootcamp for Optimal React Global State Management"
+description: "The latest GSCAMP Full Stack Bootcamp session delved into React's global state management, highlighting Zustan's efficiency over the Context API. Attendees gained practical insights into building scalable applications and advanced state patterns."
+date: 2025-12-07
+tags: ["react","zustand","context-api","global-state","web-development"]
+source: "https://www.youtube.com/watch?v=AUPqwUvgxLQ"
+---
+The GSCAMP Full Stack Bootcamp continued its series with a deep dive into global state management in React, comparing React's native Context API with the lightweight Zustan library. The session, led by Midu, emphasized practical application, addressing common challenges like 'prop drilling' and unnecessary re-renders. While React Context API was presented as a viable solution for less frequent state changes (e.g., authentication, theme) due to its built-in nature, Zustan was showcased as the superior choice for performance-critical and complex applications. Zustan's minimal boilerplate, provider-less architecture, and granular re-rendering capabilities were demonstrated through implementing authentication and favorites features, revealing significant optimization compared to Context API's full application re-renders upon state change.
+
+The bootcamp session also covered the creation of custom hooks for abstracting context consumption and protecting routes using React Router in conjunction with global state. Future bootcamp segments will transition to backend development, focusing on Node.js, Express, API creation, authentication, and database integration (SQL). Midu announced a Black Friday sale for his programming academy, offering 60% off annual subscriptions, which includes courses on advanced topics like building Zustan from scratch, TypeScript Utility Types, and GSAP animations. Additionally, a new N8N introduction video was released on YouTube, and the upcoming Wednesday bootcamp session will be rescheduled to Monday due to a speaking engagement.
