@@ -1,6 +1,6 @@
 ---
 title: "Cursor's New Visual Editor: A Bold Step Towards 'Vibe Coding' or Developer Efficiency?"
-description: "Cursor has launched an AI-powered visual editor integrated into its browser, allowing developers to manipulate UI elements directly. This move signals a potential shift towards "vibe coding" platforms, raising questions about efficiency and its target audience in the broader web development landscape."
+description: "Cursor has launched an AI-powered visual editor integrated into its browser, allowing developers to manipulate UI elements directly. This move signals a potential shift towards 'vibe coding' platforms, raising questions about efficiency and its target audience in the broader web development landscape."
 date: 2025-12-12
 tags: ["cursor","visual editor","ai development","web development","no-code"]
 source: "https://www.youtube.com/watch?v=1S8S89X-xbs"
