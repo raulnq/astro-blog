@@ -1,0 +1,11 @@
+---
+title: "GitHub Sparks Outrage with New 'Control Plane Fee' for Self-Hosted CI/CD Runners"
+description: "GitHub's latest policy to charge users who opt for external CI/CD solutions has ignited a firestorm within the developer community. Critics decry the move as a 'ransom fee' for an underperforming service, exacerbating concerns over GitHub's strategic direction."
+date: 2025-12-18
+tags: ["github","ci/cd","developer-relations","policy","self-hosted-runners"]
+source: "https://www.youtube.com/watch?v=xTSar1SEmIU"
+author: "Theo - t3․gg"
+---
+GitHub has announced a controversial new policy imposing a "control plane fee" of 0.2 cents per minute on users employing self-hosted or third-party CI/CD runners, rather than its native GitHub Actions platform. This unprecedented charge has sparked widespread outrage across the developer community. Critics have quickly labeled the fee a "ransom," "troll toll," or "tax" for choosing alternative, often more performant, continuous integration and deployment solutions. This move comes amidst long-standing developer complaints regarding the performance, reliability, and observability of GitHub Actions, a service many describe as having been "neglected" and "falling apart" for years.
+
+The new fee effectively adds to the cost of using external solutions, significantly diminishing the financial benefits of migrating from GitHub Actions' often-criticized billing model, which rounds up usage to the nearest minute. Industry figures, including Mitchell Hashimoto (co-creator of Terraform) and Kyle Quest (CEO of Depot), have publicly condemned the decision, arguing it further damages GitHub's developer reputation, which many perceive to be at an "all-time low." While GitHub indicates the change will impact a "vast majority" of customers minimally and is intended to subsidize other services and open-source projects, the community largely interprets it as a misguided revenue grab. This policy fuels concerns about GitHub's strategic mismanagement and leadership vacuum, intensifying fears of a "death spiral" for the widely used code hosting service and its impact on the broader developer ecosystem.
