@@ -55,3 +55,16 @@ export function getAllTags(posts: CollectionEntry<'blog'>[]): string[] {
   const publishedPosts = filterPublishedPosts(posts);
   return [...new Set(publishedPosts.flatMap(post => post.data.tags || []))].sort();
 }
+
+export function getPostsByAuthor(posts: CollectionEntry<'blog'>[], author: string): CollectionEntry<'blog'>[] {
+  return posts.filter(post =>
+    post.data.author === author &&
+    !post.data.draft &&
+    isPublished(post.data.date)
+  );
+}
+
+export function getAllAuthors(posts: CollectionEntry<'blog'>[]): string[] {
+  const publishedPosts = filterPublishedPosts(posts);
+  return [...new Set(publishedPosts.map(post => post.data.author).filter((author): author is string => !!author))].sort();
+}

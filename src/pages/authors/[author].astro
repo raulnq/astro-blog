@@ -1,0 +1,30 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import BlogPreview from '../../components/BlogPreview.astro';
+import { getCollection } from 'astro:content';
+import { getAllAuthors, getPostsByAuthor, sortPostsByDate } from '../../utils/posts';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const authors = getAllAuthors(posts);
+
+  return authors.map((author) => {
+    const filteredPosts = getPostsByAuthor(posts, author);
+    return {
+      params: { author },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { author } = Astro.params;
+const { posts } = Astro.props;
+const sortedPosts = sortPostsByDate(posts);
+---
+
+<BaseLayout title={`Posts by ${author}`}>
+  <h1 class="text-4xl font-bold mb-8 text-gray-900 dark:text-white">Posts by {author}</h1>
+  <section>
+    {sortedPosts.map((post) => <BlogPreview post={post} />)}
+  </section>
+</BaseLayout>
