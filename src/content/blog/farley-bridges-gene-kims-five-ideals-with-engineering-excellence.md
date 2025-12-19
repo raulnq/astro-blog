@@ -1,6 +1,6 @@
 ---
 title: "Dave Farley Unpacks Convergence of Gene Kim's Five Ideals and Core Engineering Principles"
-description: "Software engineering luminary Dave Farley recently explored the profound alignment between Gene Kim's "Five Ideals" from *The Unicorn Project* and the data-driven principles detailed in his own seminal works. The discussion highlights how narrative insights into broken engineering cultures directly translate into actionable practices for building better software."
+description: "Software engineering luminary Dave Farley recently explored the profound alignment between Gene Kim's 'Five Ideals' from *The Unicorn Project* and the data-driven principles detailed in his own seminal works. The discussion highlights how narrative insights into broken engineering cultures directly translate into actionable practices for building better software."
 date: 2025-12-19
 tags: ["software engineering","continuous delivery","devops","organizational culture","gene kim"]
 source: "https://www.youtube.com/watch?v=rieYZIOzPhk"
