@@ -2,7 +2,7 @@
 title: "GitHub Sparks Outrage with New 'Control Plane Fee' for Self-Hosted CI/CD Runners"
 description: "GitHub's latest policy to charge users who opt for external CI/CD solutions has ignited a firestorm within the developer community. Critics decry the move as a 'ransom fee' for an underperforming service, exacerbating concerns over GitHub's strategic direction."
 date: 2025-12-18
-tags: ["github","ci/cd","developer-relations","policy","self-hosted-runners"]
+tags: ["github","ci-cd","developer-relations","policy","self-hosted-runners"]
 source: "https://www.youtube.com/watch?v=xTSar1SEmIU"
 author: "Theo - t3․gg"
 ---
