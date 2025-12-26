@@ -1,6 +1,6 @@
 ---
 title: "From Generic to Bespoke: Shadcn Create Empowers Unique UI Designs"
-description: "Shadcn has launched "Shadcn Create," a significant new feature designed to empower developers with deep customization over their UI components and design systems. This initiative aims to combat design homogeneity by facilitating the creation of truly unique web applications."
+description: "Shadcn has launched 'Shadcn Create', a significant new feature designed to empower developers with deep customization over their UI components and design systems. This initiative aims to combat design homogeneity by facilitating the creation of truly unique web applications."
 date: 2025-12-19
 tags: ["shadcn","ui development","component library","customization","design systems"]
 source: "https://www.youtube.com/watch?v=aKPaxQJs-30"
