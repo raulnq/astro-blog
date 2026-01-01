@@ -1,0 +1,11 @@
+---
+title: "T3 Chat Engineers Conquer Billions of Rows, Slash 'Rewind' Feature Generation from Hours to Milliseconds"
+description: "Discover how T3 Chat tackled immense data challenges to deliver personalized user analytics, transforming a minutes-long process into a near-instant experience. This deep dive reveals the architectural shifts and database optimizations that made the 'Rewind' feature possible."
+date: 2026-01-01
+tags: ["performance optimization","posthog","clickhouse","materialized views","database scaling"]
+source: "https://www.youtube.com/watch?v=vcfISXg--R0"
+author: "Theo - t3․gg"
+---
+T3 Chat recently launched its 'Rewind' feature, providing hundreds of thousands of users with personalized statistics on their AI chat usage. Initially conceived as a straightforward addition, the implementation quickly exposed significant performance bottlenecks when attempting to aggregate data from billions of rows stored across its application (Convex) and analytics (PostHog) databases. The challenge stemmed from PostHog, built on ClickHouse for analytical work, not being designed for direct, concurrent user-facing queries. Early attempts resulted in generation times of 10-20 minutes per user, overwhelming queues with thousands of pending jobs, and hitting PostHog's stringent rate limits of three concurrent queries and 240 queries per minute.
+
+The development team embarked on an intensive optimization effort, starting with basic fixes like increasing parallelism and consolidating multiple queries into single requests using `UNION ALL` to mitigate rate limit issues. A pivotal breakthrough came with the adoption of PostHog's `materialized views`, which effectively pre-calculated and cached complex aggregations, transforming query times from several seconds to mere hundreds of milliseconds per request. Further enhancements included refining query logic, leveraging PostHog's beta 'endpoints' feature for API access and caching, and ultimately consolidating all data retrieval into a single, highly optimized query. This iterative process dramatically reduced generation times to under 10 seconds in production, with experimental versions achieving an impressive sub-200 millisecond response, showcasing a comprehensive approach to high-scale data retrieval and application architecture.
