@@ -1,0 +1,11 @@
+---
+title: "Mark Richards Unveils Fitness Function-Driven Architecture: TDD for System Evolution"
+description: "Mark Richards introduces Fitness Function-Driven Architecture (FFDA), a paradigm shift for validating and evolving software systems. Learn how FFDA applies test-driven principles to architectural goals, ensuring system integrity and adaptability."
+date: 2026-01-05
+tags: ["software architecture","fitness functions","evolutionary architecture","tdd","system design"]
+source: "https://www.youtube.com/watch?v=LwxLjgK0dA8"
+author: "Software Architecture Monday"
+---
+Mark Richards, in lesson 215 of "Software Architecture Monday," introduced Fitness Function-Driven Architecture (FFDA), a methodology akin to Test-Driven Development (TDD) but applied to architectural goals. FFDA leverages architectural fitness functions—objective integrity assessments of architectural characteristics—to validate and evolve software systems. These functions, initially defined by Neal Ford, Rebecca Parsons, and Patrick Kua in "Building Evolutionary Architectures," act as automated tests that measure structural, operational, or process-related architectural attributes. While existing infrastructure tools offer some metric gathering, FFDA often necessitates custom fitness functions to target specific, complex architectural objectives that go beyond standard tool capabilities.
+
+The core principle of FFDA involves defining an architectural goal as a failing fitness function, then iteratively refactoring and evolving the architecture until the function passes. Richards demonstrated this with a structural refactoring example, transforming the "SysOps Squad" system's domain structure from five to three. He highlighted the use of tools like ArchUnit (Java), ArchUnit.NET, Pylint-Arc (Python), and TsArchC (TypeScript/JavaScript) to define these structural tests. Beyond structural concerns, FFDA is also applicable to operational characteristics such as response times, scalability, and availability, and process goals like improving agility or reducing error rates. By continuously applying these fitness functions, teams can not only track their progress towards architectural aspirations but also ensure these goals are sustained over time, providing a robust mechanism for guided architectural evolution.
