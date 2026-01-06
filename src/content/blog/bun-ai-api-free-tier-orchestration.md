@@ -1,0 +1,11 @@
+---
+title: "Bun-Powered API Orchestrates Multi-Provider Free-Tier LLM Services for Cost-Effective AI Integration"
+description: "Discover how to build and deploy a scalable AI API using Bun, strategically leveraging the free tiers of services like Groq and Cerebras to eliminate operational costs. This technical guide outlines a practical approach to multi-provider integration and efficient deployment on a VPS."
+date: 2026-01-01
+tags: ["bun","ai","api","free-tier","vps"]
+source: "https://www.youtube.com/watch?v=ax7_QNZZ-pk"
+author: "midudev"
+---
+A novel approach has emerged for developing scalable AI APIs that sidestep common operational costs by intelligently orchestrating multiple Large Language Model (LLM) providers' free tiers. This method leverages Bun, a fast JavaScript runtime, to create a lightweight API that acts as a proxy, distributing requests in a round-robin fashion across services such as Groq, Cerebras, Google Gemini, and OpenRouter. By integrating each service's SDK and managing API keys via environment variables, developers can tap into individual free usage limits (e.g., Groq's 60 calls/minute or Cerebras's 30 calls/minute) to collectively handle a higher volume of requests without incurring subscription fees or requiring credit card information. The architecture supports streaming responses, enabling real-time generation of AI output, a critical feature for modern LLM applications.
+
+Deployment of this Bun-based API is streamlined using NixPacks to define build and runtime configurations, ensuring consistent execution across environments. The API is then effortlessly deployed to a Virtual Private Server (VPS), specifically demonstrated on a Hostinger VPS utilizing Coolify—a robust platform that simplifies application, database, and service deployment. This setup provides developers with a cost-effective, extensible solution for AI integration, allowing for the continuous addition of new LLM services to further enhance capacity and resilience. The unified API acts as a smart proxy, abstracting the complexity of managing multiple AI providers and offering a consolidated endpoint for AI model access.
