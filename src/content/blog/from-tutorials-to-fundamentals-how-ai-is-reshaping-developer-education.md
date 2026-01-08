@@ -1,0 +1,11 @@
+---
+title: "From Tutorials to Fundamentals: How AI and Practical Application are Reshaping Developer Education"
+description: "A veteran in developer education sheds light on his long-standing decision to halt coding tutorial production, a trend now echoed by prominent peers. He argues that the ascent of AI and the critical need for foundational mastery are diminishing the relevance of framework-specific content."
+date: 2026-01-08
+tags: ["developer education","ai in coding","programming fundamentals","project based learning","tutorial hell"]
+source: "https://www.youtube.com/watch?v=MLYS8po3q68"
+author: "Stefan Mischook"
+---
+A long-time voice in software development education has offered insights into why he discontinued creating coding tutorials years ago, a trend he now observes among other prominent content creators. He posits that the rapid advancement of AI has significantly diminished the relevance of framework-specific guides for technologies like React or Vue. Furthermore, he emphasizes that a successful career in software development hinges on a deep understanding of core fundamentals rather than rote memorization of specific tutorial steps. This shift away from prescriptive tutorials towards foundational knowledge is crucial to avoid 'tutorial hell' and foster genuine mastery.
+
+Drawing parallels to combat sports, he advocates for a project-based learning approach, asserting that building real-world applications from concept to deployment offers unparalleled depth of understanding that tutorials cannot provide. With a solid grasp of fundamentals, estimated to take 200-350 hours, developers can leverage AI as a powerful tool to rapidly learn new frameworks and solve complex problems. However, he cautions that without strong foundational knowledge, AI-generated code can lead to 'slop' and errors. His own curriculum, established years ago, prioritizes these core web stack and Python fundamentals, preparing developers to build effectively and adapt to evolving technologies without needing constant, specific tutorial guidance.
