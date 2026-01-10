@@ -2,7 +2,7 @@
 title: "DevOps Roadmap Unveiled: A Comprehensive Guide to Essential Skills and Tools"
 description: "A detailed roadmap for aspiring DevOps professionals highlights the critical skills and tools required to master the field, from foundational programming to advanced cloud orchestration and automation. This guide emphasizes the lucrative nature of DevOps and the continuous evolution of its toolchain."
 date: 2026-01-06
-tags: ["devops","cloud-computing","ci/cd","infrastructure-as-code","containerization"]
+tags: ["devops","cloud-computing","ci-cd","infrastructure-as-code","containerization"]
 source: "https://www.youtube.com/watch?v=9QFAWoSpSKw"
 author: "Fazt Code"
 ---
