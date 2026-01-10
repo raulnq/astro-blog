@@ -1,0 +1,11 @@
+---
+title: "Microsoft Exec's Bold 2030 C/C++ Eradication Target and AI-Driven Rewrite Plan Stir Controversy, Lead to Official Clarification"
+description: "A Microsoft executive's viral post outlining a plan to eliminate C/C++ from major codebases by 2030 using AI stirred the tech community, particularly regarding Windows. The ambitious claims, accompanied by a high-profile job opening, prompted a subsequent clarification."
+date: 2026-01-06
+tags: ["microsoft","c++","rust","ai","code migration"]
+source: "https://www.youtube.com/watch?v=ED6METJWIB8"
+author: "midudev"
+---
+Microsoft's Galen Hunt ignited a stir in the software development community with a LinkedIn post outlining an audacious goal: "My objective is to eliminate every line of C and C++ at Microsoft by 2030." This ambitious undertaking, according to Hunt, would leverage a combination of artificial intelligence and algorithmic approaches to rewrite Microsoft's largest codebases, implicitly pointing to critical systems like Windows or Office. The post further proposed an extraordinary productivity target—one engineer rewriting one million lines of code per month, translating to an estimated 45,000-50,000 lines daily. To support this vision, Hunt's research team announced an opening for a Principal Software Engineer (IC5) in Redmond, a highly compensated role with a salary range of $139,000 to $275,000, tasked with developing the technology for cross-language migration.
+
+The pronouncement quickly went viral, fueling widespread speculation, particularly concerning a potential full rewrite of Windows 11 in Rust—a language often enthusiastically championed by developers for large-scale migrations. However, the fervor was short-lived as Hunt promptly updated his original post with a significant clarification. He stated that his initial message generated "much more attention than expected with a lot of speculative reading between the lines." Critically, Hunt clarified that Windows would "not be rewritten in Rust with artificial intelligence," emphasizing that his team's work is a research project focused on making language-to-language migrations possible, not a new strategy for major Microsoft products. This rapid walk-back left many in the community perceiving the initial post as an over-ambitious attempt to garner attention, subsequently requiring a strong public correction.
