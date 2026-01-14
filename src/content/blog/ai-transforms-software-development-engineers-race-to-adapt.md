@@ -1,5 +1,5 @@
 ---
-title: "AI's "Magnitude 9 Earthquake" Reshapes Software Development, Demanding Rapid Engineer Adaptation"
+title: "AI's 'Magnitude 9 Earthquake' Reshapes Software Development, Demanding Rapid Engineer Adaptation"
 description: "The software development profession is undergoing a dramatic refactoring as AI tools become central to coding, pushing engineers to master new layers of abstraction or risk falling behind. Industry leaders urge immediate adoption and a complete re-evaluation of development workflows."
 date: 2026-01-14
 tags: ["ai development","software engineering","llm agents","developer productivity","tech careers"]
