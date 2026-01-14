@@ -2,7 +2,7 @@
 title: "Git Workflows Undergo Dramatic Evolution: From Gitflow to Trunk-Based Development"
 description: "Explore the dramatic shift in Git workflows over the last decade, from the rigid Gitflow to lean GitHub Flow and the high-performance Trunk-Based Development. Understand why adapting your branching strategy is crucial for modern software delivery."
 date: 2026-01-14
-tags: ["git","devops","ci/cd","workflow","branching"]
+tags: ["git","devops","ci-cd","workflow","branching"]
 source: "https://www.youtube.com/watch?v=GQQqf-C2ha4"
 author: "TechWorld with Nana"
 ---
