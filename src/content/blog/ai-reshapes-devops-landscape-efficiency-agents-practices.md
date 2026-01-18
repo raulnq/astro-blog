@@ -1,6 +1,6 @@
 ---
 title: "AI Reshapes DevOps Landscape: Efficiency, Specialized Agents, and Evolving Practices"
-description: "An expert AMA session delves into AI's evolving role in DevOps and SRE, offering practical advice on tools, frameworks, and strategic considerations for engineers. The discussion also covers critical insights into cloud-native deployments, secrets management, and the future of job security in an an AI-driven landscape."
+description: "An expert AMA session delves into AI's evolving role in DevOps and SRE, offering practical advice on tools, frameworks, and strategic considerations for engineers. The discussion also covers critical insights into cloud-native deployments, secrets management, and the future of job security in an AI-driven landscape."
 date: 2026-01-16
 tags: ["devops","sre","ai","kubernetes","platform-engineering"]
 source: "https://www.youtube.com/watch?v=ezW6DX8AaVc"
