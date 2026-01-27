@@ -1,6 +1,6 @@
 ---
-title: "AI Agent "Skills" Revolutionize Development Workflows with Standardized Instructions"
-description: "A new standard for intelligent agents, "skills" are Markdown files empowering AI to enhance UI, optimize code, and enforce best practices across diverse development environments. Discover how these modular instructions are streamlining software creation and elevating output quality."
+title: "AI Agent 'Skills' Revolutionize Development Workflows with Standardized Instructions"
+description: "A new standard for intelligent agents, 'skills' are Markdown files empowering AI to enhance UI, optimize code, and enforce best practices across diverse development environments. Discover how these modular instructions are streamlining software creation and elevating output quality."
 date: 2026-01-25
 tags: ["ai-agents","developer-tools","workflow-automation","code-quality","ui-ux"]
 source: "https://www.youtube.com/watch?v=hXgunHDwMR8"
