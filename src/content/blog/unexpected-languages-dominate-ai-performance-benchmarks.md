@@ -1,0 +1,11 @@
+---
+title: "Elixir, C#, and C Lead Unexpected Programming Language Rankings for AI Development"
+description: "A recent Tencent benchmark reveals surprising leaders in AI model performance across programming languages, challenging conventional wisdom. Learn why Elixir, C#, and C are outperforming Python, TypeScript, and Rust."
+date: 2026-01-28
+tags: ["ai","programming-languages","benchmarking","elixir","csharp"]
+source: "https://www.youtube.com/watch?v=iV1EcfZSdCM"
+author: "Theo - t3․gg"
+---
+Recent findings from Tencent's Autocodebench, a benchmark designed to evaluate AI models across diverse programming languages, have unveiled a highly unexpected hierarchy of language performance. Contrary to popular developer sentiment and the widespread use of languages like Python, TypeScript, and Rust in AI/ML contexts, the benchmark indicates that languages such as Elixir, C#, and C demonstrate superior compatibility and performance with current AI models. Elixir notably topped the charts with an impressive 97.5% score, followed by C# at 88.4%, Java at 78.7%, and C++ at 74.7%. Widely favored languages like Rust and TypeScript scored significantly lower, both hovering around 61%. This data suggests that the criteria for a 'good' language from an AI model's perspective differ substantially from human preferences.
+
+The surprising results prompt a re-evaluation of what makes a programming language AI-friendly. Key factors hypothesized to contribute to these unexpected outcomes include high-quality, co-located documentation (e.g., Elixir's Hex Docs and C#'s XML comments), which provides rich context for LLMs. Additionally, languages with clear idioms, pattern matching capabilities, immutability, and a strong design philosophy that limits the number of 'bad' solutions, such as Elixir, appear to be more easily processed and understood by AI agents. This clarity, combined with often smaller, high-quality codebases in niche languages like Elixir, reduces ambiguity and enhances the models' ability to generate correct and idiomatic code efficiently. These insights underscore a divergence in how human developers and AI models interpret and interact with code, potentially shaping future trends in language adoption for AI-driven development.
