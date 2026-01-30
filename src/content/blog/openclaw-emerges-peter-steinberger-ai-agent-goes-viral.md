@@ -1,0 +1,11 @@
+---
+title: "OpenClaw Emerges: Peter Steinberger's Autonomous AI Agent Goes Viral Amidst Name Controversy"
+description: "A new open-source AI agent, OpenClaw, is rapidly gaining traction among developers for its autonomous automation capabilities. Despite a contentious name change dispute with Anthropic, the tool has garnered over 65,000 GitHub stars and driven a surge in Mac Mini sales."
+date: 2026-01-30
+tags: ["ai","open-source","developer-tools","automation","github"]
+source: "https://www.youtube.com/watch?v=ssYt09bCgUY"
+author: "Fireship"
+---
+A new autonomous AI assistant, now officially known as OpenClaw, has rapidly become one of the most talked-about developer tools of 2026. Initially launched as Claudebot, the free and open-source project by Peter Steinberger, founder of PSDFKit, quickly amassed over 65,000 GitHub stars in record time, reportedly causing a significant surge in Mac Mini sales. OpenClaw distinguishes itself as an action-oriented agent designed to automate real-world tasks 24/7, maintaining context across sessions and communicating via popular messaging platforms like Telegram or WhatsApp. Its viral success, however, was swiftly followed by controversy when Anthropic, citing name similarity to their proprietary 'Claude' AI, issued a legal threat, compelling the project to undergo two name changes from Claudebot to Maltbot, and finally to OpenClaw.
+
+Underpinned by TypeScript and leveraging models like Claude and GPT-5, OpenClaw offers extensive capabilities, including calendar management, email cleanup, script execution, stock market monitoring, and even deploying code. A key appeal for developers is its ability to operate from self-hosted environments such as a VPS, Raspberry Pi, or Mac Mini, offering a cost-effective alternative to subscription-based services. Setup is streamlined, allowing developers to integrate various AI model providers (including free open-source options or Anthropic's API), connect messenger applications, and configure 'skills' and 'hooks' for personalized automations. These features enable continuous background operations, such as real-time stock tracking or automated interview question generation, directly manageable and refinable through a unified gateway dashboard or chat interface.
