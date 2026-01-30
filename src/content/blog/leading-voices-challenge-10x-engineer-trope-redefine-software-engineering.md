@@ -1,0 +1,11 @@
+---
+title: "Leading Voices Challenge '10x Engineer' Trope, Advocate for Broader Definition of Software Engineering"
+description: "A recent podcast unpacks the contentious '10x engineer' concept, arguing its pitfalls and emphasizing the often-overlooked aspects of genuine engineering value. The discussion also redefines software engineering as a complex discipline far beyond just writing code."
+date: 2026-01-30
+tags: ["software engineering","10x engineer","tech debt","developer culture","podcast"]
+source: "https://www.youtube.com/watch?v=aDCOuZ80lDQ"
+author: "Modern Software Engineering"
+---
+The '10x engineer' trope, a long-standing point of contention in the tech industry, was recently dissected on The Engineering Room with Dave Farley podcast. Speakers expressed strong disapproval of the term, particularly for those who self-identify as such, noting that these individuals often accrue significant technical debt for their teams in their pursuit of perceived 'excellence.' While acknowledging the existence of truly prolific engineers, the consensus was that aiming to be a '10x engineer' is a 'dumb target.' True engineering excellence, it was argued, manifests in various forms, such as the Facebook Level 7 engineer who, with only five lines of code, saved the company $50 million, demonstrating impact far beyond mere code volume.
+
+The conversation further shifted to reclaim and redefine the term 'software engineering,' asserting that writing code is not, and never has been, the hardest part of the discipline. The genuine challenges lie in understanding, maintaining, extending, scaling, operating, migrating, refactoring, crafting appropriate abstractions, instrumenting, and reasoning about software systems. The speakers criticized the common American perception of 'software engineering' as merely a synonym for coding, and the UK's tendency to equate it with a bureaucratic approach. Instead, engineering as a discipline was championed as the height of human creativity, focusing on solving novel problems practically, functionally, economically, and with continuous optimization and learning. True engineering, by this definition, is what consistently works best.
