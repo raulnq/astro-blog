@@ -1,0 +1,11 @@
+---
+title: "Developer Clones Personal Writing Style into Custom AI, Lucy GPT, in Under 30 Minutes"
+description: "Frustrated by generic AI outputs, a developer has created Lucy GPT, a personalized AI clone capable of mimicking individual voice and tone for content generation. This article details the methodology, leveraging open-source models and cloud GPUs to achieve tailored AI in under half an hour."
+date: 2026-01-30
+tags: ["ai-cloning","llm-fine-tuning","content-generation","gpu-computing","qlora"]
+source: "https://www.youtube.com/watch?v=yrTBXiyvwW0"
+author: "Tech With Lucy"
+---
+Addressing the pervasive challenge of generic AI-generated content, a developer successfully created "Lucy GPT," an AI clone meticulously designed to mimic their unique voice and tone for personalized content generation. This custom Large Language Model (LLM) was reportedly built in under 30 minutes, leveraging personal content samples, an open-source base model, and a dedicated GPU. The initiative aims to produce highly personalized outputs for tasks such as emails, blog posts, and presentation scripts, demonstrating a significant improvement over standard LLMs like ChatGPT or Claude, which often yield an indistinguishable, 'AI-sounding' text.
+
+The development process encompassed four core steps: data collection, GPU environment setup, model training, and testing. The developer gathered extensive samples of their own writing, including YouTube scripts and LinkedIn posts, to capture distinct linguistic patterns. For hardware, a GPU server was provisioned via Verta (formerly Data Crunch), specifically an Nvidia L40S GPU with 48 GB VRAM, chosen for its suitability for fine-tuning smaller models. Ubuntu 24.04 served as the operating system. The core of the training involved fine-tuning a base Mistral model using QLoRA (Quantized Low-Rank Adaptation), an efficient method for adapting LLMs on resource-constrained GPUs. Raw text data was preprocessed into a JSONL format, structured as prompt-response pairs, to optimize model learning. Upon successful training, "Lucy GPT" demonstrated its ability to generate content that closely replicated the developer's natural speaking and writing style, validating the effectiveness of personalizing LLMs for specific stylistic outputs.
