@@ -1,5 +1,5 @@
 ---
-title: "React, Angular, and Vue in 2024: A Deep Dive into Popularity, Performance, and the AI Factor"
+title: "React, Angular, and Vue: A Deep Dive into Popularity, Performance, and the AI Factor"
 description: "A recent live stream offered a comprehensive comparison of the leading frontend frameworks, examining their market dominance, ease of learning, ecosystem strengths, and the growing influence of AI in development."
 date: 2026-01-30
 tags: ["react","angular","vue","frontend","ai"]
