@@ -2,7 +2,7 @@
 title: "Agent Browser Emerges as a Token-Efficient, CLI-Driven AI Browser Automation Tool"
 description: "Discover Agent Browser, a new Rust-based tool for AI-driven browser automation that leverages console commands for token efficiency. This alternative to traditional MCPs offers unique integration with intelligent agents and streamlined CI/CD workflows."
 date: 2026-01-31
-tags: ["ai automation","browser testing","rust","cli","ci/cd"]
+tags: ["ai automation","browser testing","rust","cli","ci-cd"]
 source: "https://www.youtube.com/watch?v=fr_UyHZCef8"
 author: "Fazt Code"
 ---
