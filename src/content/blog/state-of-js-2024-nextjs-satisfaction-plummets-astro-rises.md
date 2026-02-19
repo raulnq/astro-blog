@@ -1,5 +1,5 @@
 ---
-title: "State of JS 2024: Next.js Satisfaction Plummets as Astro and Vitest Emerge Strong"
+title: "State of JS 2025: Next.js Satisfaction Plummets as Astro and Vitest Emerge Strong"
 description: "The latest State of JS survey unveils significant shifts in developer sentiment, with Next.js satisfaction hitting an all-time low while Astro and Solid gain traction. This comprehensive report details the evolving landscape of JavaScript frameworks, meta-frameworks, and developer tools."
 date: 2026-02-14
 tags: ["javascript","frontend","frameworks","nextjs","vitest"]
