@@ -1,0 +1,11 @@
+---
+title: "Notepad++ Hit by Sophisticated Supply Chain Attack, Malicious Downloads Reported"
+description: "A recent incident revealed that Notepad++, a widely used code editor, fell victim to a sophisticated supply chain attack. Attackers compromised its hosting infrastructure, redirecting legitimate downloads to malicious binaries."
+date: 2026-02-06
+tags: ["notepad++","supply chain attack","cybersecurity","state-sponsored","hosting compromise"]
+source: "https://www.youtube.com/watch?v=7oBIaHxSdtc"
+author: "midudev"
+---
+Notepad++, a beloved and ubiquitous text and code editor among developers, has reportedly been the target of a significant supply chain attack. The incident, which has sent ripples through the community, did not involve a compromise of the application's source code or its repository but rather its infrastructure. Allegedly orchestrated by state-sponsored hackers, with implications pointing towards China, the attack exploited a vulnerability in Notepad++'s hosting provider.
+
+The breach, identified as a supply chain attack, centered on the storage services responsible for distributing Notepad++ binaries. The hosting provider's shared server, used for download delivery, was reportedly compromised on September 2, 2025. Attackers maintained access to internal services until December 2, 2025, enabling them to redirect users attempting to download Notepad++ from the official site to malicious servers. This effectively meant users were downloading compromised binaries instead of the genuine application. The Notepad++ team has since updated their systems, conducted thorough testing, and, crucially, changed their hosting provider, indicating the issue is now resolved. This incident echoes the severe SourceForge attack in 2011 and highlights the often-overlooked vulnerability of supply chain elements, such as hosting services, compared to the core product itself. Industry observers note the contrast with applications like Visual Studio Code, which leverage robust Microsoft infrastructure, making such infrastructure-level compromises significantly more challenging.
