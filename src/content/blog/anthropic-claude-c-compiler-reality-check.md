@@ -1,6 +1,6 @@
 ---
 title: "Anthropic's AI-Generated C Compiler: Hype Meets Reality"
-description: "Anthropic's Claude 3.5 Opus recently generated a C compiler, touted as a breakthrough in AI-driven software development. However, closer inspection reveals significant limitations and raises critical questions about the future of software engineering practices."
+description: "Anthropic's Claude 4.5 Opus recently generated a C compiler, touted as a breakthrough in AI-driven software development. However, closer inspection reveals significant limitations and raises critical questions about the future of software engineering practices."
 date: 2026-02-14
 tags: ["ai","compilers","software-development","anthropic","claude"]
 source: "https://www.youtube.com/watch?v=zsyfYEn7fEI"
