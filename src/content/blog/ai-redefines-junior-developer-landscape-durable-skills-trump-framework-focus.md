@@ -1,6 +1,6 @@
 ---
 title: "AI Redefines Junior Developer Landscape: Durable Skills Trump Framework Focus"
-description: "An industry veteran argues that the traditional path for junior developers is fading, replaced by a demand for foundational "durable layer" skills and AI proficiency. This shift signals a significant opportunity for newcomers embracing architectural thinking over framework specialization."
+description: "An industry veteran argues that the traditional path for junior developers is fading, replaced by a demand for foundational 'durable layer' skills and AI proficiency. This shift signals a significant opportunity for newcomers embracing architectural thinking over framework specialization."
 date: 2026-02-03
 tags: ["ai","developer-skills","career-path","software-development","junior-developers"]
 source: "https://www.youtube.com/watch?v=pEPn8pf78WM"
