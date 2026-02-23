@@ -1,0 +1,11 @@
+---
+title: "Programming Languages Aren't Outdated: The Shift Towards Tools and Ecosystems"
+description: "An industry veteran asserts that modern programming languages are becoming less relevant, with their choice driven by project needs rather than inherent superiority. The evolving landscape of AI, low-code, and no-code tools is reshaping software development."
+date: 2026-02-23
+tags: ["programming languages","software development","ai","low-code","developer careers"]
+source: "https://www.youtube.com/watch?v=N4V4b9kSwMc"
+author: "Stefan Mischook"
+---
+An industry veteran asserts that modern programming languages such as PHP, C++, Rust, Ruby, JavaScript, and TypeScript will not become outdated. The argument posits that contemporary development, heavily influenced by AI, low-code, no-code tools, frameworks, and libraries, is diminishing the relative amount of code written by developers. This shift reduces programming languages to a more minor, tool-selection role, where the choice is dictated by the specific requirements of the project rather than inherent language superiority. Historically, debates around languages like C# versus Java were often rooted in the surrounding infrastructure and ecosystems, a pattern that continues today as language preference is driven by job-specific needs.
+
+The diminishing relevance of individual languages is further supported by the similarity in fundamental constructs across most modern programming languages, making it relatively straightforward for experienced developers to switch between them. For instance, proficiency in one C-family language can provide a strong foundation for others like Java, JavaScript, or PHP in a matter of days. The critical success factor now lies not in mastering a language's syntax, but in understanding its broader "verticals," "stacks," and "ecosystems" — such as the .NET environment for C# or the Java Virtual Machine (JVM) for Java. This paradigm shift presents a significant opportunity for junior developers, encouraging them to pivot towards cutting-edge tools and methodologies like AI-driven development and low-code/no-code platforms, much like early web developers capitalized on emerging web stacks in the 1990s.
