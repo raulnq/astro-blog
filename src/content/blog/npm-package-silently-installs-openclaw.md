@@ -1,0 +1,11 @@
+---
+title: "Compromised npm Package Stealthily Installs AI Agent OpenClaw on Developer Machines"
+description: "A widely used npm package was compromised, silently installing the powerful AI agent OpenClaw on developer systems. This incident highlights critical supply chain vulnerabilities and the dangers of AI agents with broad system access."
+date: 2026-02-24
+tags: ["npm","security","supply-chain-attack","ai-agents","openclaw"]
+source: "https://www.youtube.com/watch?v=kKLkyNdyou4"
+author: "Stefan Mischook"
+---
+A critical software supply chain vulnerability has emerged within the npm ecosystem, leading to the silent installation of OpenClaw, a potent autonomous AI agent, on developers' machines. Researchers discovered that a compromised publisher token for the widely used `client` command-line interface (CLI) pushed a malicious update (version `2.3.0`) to the npm registry. This update included a `postinstall` script within its `package.json` that automatically installed the latest version of OpenClaw. The `client` CLI, with approximately 90,000 weekly downloads, exposed a significant user base to this exploit, with the compromised package remaining live on the registry for an estimated eight hours on February 17th.
+
+OpenClaw, a free and open-source AI agent launched recently on January 29th, gained rapid popularity due to its ability to run locally and perform autonomous real-world actions like reading emails, browsing web pages, and managing calendars. Critically, it possesses broad system access and deep integrations with major messaging platforms including WhatsApp, Telegram, Slack, and Discord. Although OpenClaw itself was not inherently malicious in this specific incident, its stealthy installation poses substantial risks. David Shipley of Beauceron Security noted that attackers "effectively turned OpenClaw into malware that the EDR endpoint detection and response isn't going to stop." The incident underscores the severe implications of supply chain attacks within package managers like npm, especially when the payload is an AI agent with extensive system privileges, further compounded by OpenClaw's pre-existing security concerns regarding prompt injection attacks and authentication bypasses, which have led many enterprises to restrict or ban its use. A corrected `2.4` version of the `client` CLI has since been published.
