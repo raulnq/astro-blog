@@ -1,0 +1,11 @@
+---
+title: "Former Amazon Insider: Layoffs Driven by Post-COVID Overhiring and Bloat, Not AI"
+description: "A former Amazon employee and industry observer challenges the narrative surrounding recent tech layoffs, attributing them to excessive hiring during the COVID-19 boom and escalating corporate inefficiency. This analysis suggests AI is a convenient cover story for deeper systemic issues within large organizations."
+date: 2026-02-27
+tags: ["amazon layoffs","tech industry","corporate culture","ai impact","software development"]
+source: "https://www.youtube.com/watch?v=lpvrgeKJ85Q"
+author: "Stefan Mischook"
+---
+A former Amazon employee, with seven years of tenure, attributes the recent wave of tech layoffs, including those at Amazon, primarily to aggressive overhiring during the COVID-19 pandemic and subsequent corporate bloat, rather than the direct impact of artificial intelligence. This perspective suggests AI is largely a "cover story" for underlying systemic issues. Amazon's workforce reportedly doubled from 800,000 employees in 2019 to 1.6 million by 2021, a period characterized by "defensive hires" where companies recruited broadly to avoid missing out on talent. Many of these new roles were reportedly unnecessary or filled by unqualified individuals, leading to a "rotting system" characterized by widespread inefficiency.
+
+The widespread overhiring resulted in significant organizational bloat, increased bureaucracy, and a decline in productivity—measured as revenue per employee. This environment fostered a culture where process often overshadowed tangible results, leading to "meetings about meetings" and a detachment from business outcomes, a phenomenon noted as common in large organizations. For developers navigating this evolving landscape, the emphasis has shifted from traditional roles towards mastering the "AI stack." This new demand requires a strong understanding of foundational coding principles combined with expertise in large language models (LLMs) like Gemini, Claude, Grok, and ChatGPT, as well as downstream agentic tools. Professionals skilled in both AI-first development and augmented traditional development with AI are positioned to meet current industry demands and secure opportunities in a competitive market.
