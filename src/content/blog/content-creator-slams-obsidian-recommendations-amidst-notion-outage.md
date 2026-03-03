@@ -1,0 +1,11 @@
+---
+title: "Content Creator Slams Obsidian Recommendations Amidst Notion Outage: 'You're Using Notion Wrong'"
+description: "A prominent content creator strongly pushes back on community suggestions to ditch Notion for Obsidian, detailing how the popular project management tool is critical for his collaborative, high-volume production pipeline despite its flaws."
+date: 2026-03-03
+tags: ["notion","obsidian","productivity","collaboration","workflow"]
+source: "https://www.youtube.com/watch?v=h6ukrWyqOm4"
+author: "Theo - t3․gg"
+---
+A recent Notion outage during filming spurred a popular tech content creator to vehemently address persistent community recommendations to switch to Obsidian. Despite experiencing significant data loading issues, describing Notion as a 'house of cards' prone to 'absurd' bugs, and incurring a $1,000 annual cost, the creator defended its indispensable role in managing a complex, collaborative content pipeline for a six-person team. He characterized the suggestions to move to Obsidian or Apple Notes as fundamentally misunderstanding his operational needs, asserting that if one views Notion solely as a personal note-taking app, they are 'using Notion wrong.'
+
+The creator detailed Notion's criticality for a high-volume daily video production schedule, citing features such as collaborative Kanban boards, dynamic content calendars, automated assignments for editors, linked databases for managing brands and sponsorships, and flexible content embedding. He underscored that every aspect of their workflow, from topic planning to release scheduling, relies on Notion's real-time sync and collaborative capabilities, which he argues Obsidian fundamentally lacks. He also highlighted a widespread misconception that Obsidian is an open-source project, noting a poll where over 70% of his audience was unaware of its closed-source nature. For his team's sophisticated requirements, the only viable alternative to Notion would entail building a custom internal platform, emphasizing that Obsidian serves a different purpose—personal knowledge management—rather than a full-fledged collaborative business operation.
