@@ -1,6 +1,6 @@
 ---
-title: "Claude's "Remote Control" Feature Pits Managed AI Against Open-Source Autonomy"
-description: "Claude has launched "Remote Control," a new feature allowing developers to manage their Claude Code installations remotely from mobile devices or web interfaces. This release directly challenges the self-hosted flexibility offered by the OpenClaw project, streamlining advanced AI control."
+title: "Claude's 'Remote Control' Feature Pits Managed AI Against Open-Source Autonomy"
+description: "Claude has launched 'Remote Control,' a new feature allowing developers to manage their Claude Code installations remotely from mobile devices or web interfaces. This release directly challenges the self-hosted flexibility offered by the OpenClaw project, streamlining advanced AI control."
 date: 2026-02-27
 tags: ["ai-development","remote-control","claude-code","open-source-alternatives","developer-tools"]
 source: "https://www.youtube.com/watch?v=_ZI1j_szb8c"

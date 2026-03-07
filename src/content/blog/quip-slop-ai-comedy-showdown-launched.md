@@ -1,6 +1,6 @@
 ---
-title: "“Quip Slop” Unleashes AI Comedy Battle Live on Twitch, Navigating Chaos and DDoS"
-description: "A developer has launched "Quip Slop," an AI-powered game challenging models to generate the funniest responses in a Quiplash-style format, streaming the live AI competition on Twitch. The project overcame significant technical hurdles, including dynamic prompt generation, real-time streaming via FFmpeg, and a DDoS attack during its chaotic launch."
+title: "'Quip Slop' Unleashes AI Comedy Battle Live on Twitch, Navigating Chaos and DDoS"
+description: "A developer has launched 'Quip Slop,' an AI-powered game challenging models to generate the funniest responses in a Quiplash-style format, streaming the live AI competition on Twitch. The project overcame significant technical hurdles, including dynamic prompt generation, real-time streaming via FFmpeg, and a DDoS attack during its chaotic launch."
 date: 2026-02-27
 tags: ["ai","twitch","webdev","ffmpeg","open-source"]
 source: "https://www.youtube.com/watch?v=9iUd2Ik-bBI"
