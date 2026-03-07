@@ -1,0 +1,11 @@
+---
+title: "Vertical Slices Don't Share Nothing: Architect Dererick Martin on Smart Coupling and Logical Boundaries"
+description: "Challenging a common architectural misconception, Dererick Martin argues that effective vertical slice design involves strategic sharing and precise coupling. Learn how to delineate logical boundaries around use cases and manage shared concerns."
+date: 2026-03-07
+tags: ["software-architecture","vertical-slices","domain-driven-design","coupling","use-cases"]
+source: "https://www.youtube.com/watch?v=ZiZoR4cQhGE"
+author: "CodeOpinion"
+---
+Challenging a common architectural misconception, Dererick Martin from codepinion.com asserts that effective vertical slice design is not about absolute isolation, but rather "sharing the right things and avoiding sharing the wrong things." Martin defines a vertical slice as a logical boundary encapsulating a specific use case, not necessarily a physical code separation. He illustrates this with a shipment workflow, where individual steps like 'dispatched,' 'arrived,' and 'loaded' can each represent a distinct vertical slice. This approach accommodates dynamic workflows, such as a 'dry run' use case that deviates from the standard shipment process, highlighting that slices can share an underlying workflow while maintaining individual ownership over their specific actions.
+
+Martin distinguishes between beneficial and detrimental sharing. "Good sharing" includes technical infrastructure components like error types, logging, tracing, and messaging primitives, which serve as foundational utilities across multiple slices. Critically, vertical slices within a coherent workflow can and should share an aggregate or consistency boundary. For instance, a `Shipment` aggregate manages the lifecycle state, with each slice owning specific state transitions (e.g., updating a `dispatchedAt` column in an ORM or raising a 'dispatched' event in event sourcing). Conversely, "bad sharing" arises when slices couple to unrelated domain concerns or consolidate disparate responsibilities into monolithic "god objects." Martin emphasizes that the core challenge lies in managing coupling: understanding what is being coupled and why. He advises focusing on action-specific behaviors rather than primary data structures to avoid misleading similarities and unnecessary architectural entanglement.
