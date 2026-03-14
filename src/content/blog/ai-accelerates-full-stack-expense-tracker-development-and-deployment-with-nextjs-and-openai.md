@@ -1,0 +1,11 @@
+---
+title: "AI Accelerates Full-Stack Development: Building and Deploying an Intelligent Expense Tracker with Next.js and OpenAI"
+description: "A recent demonstration showcased the rapid development and deployment of a full-stack expense tracker leveraging AI-powered coding and advanced OCR capabilities. The project highlights a streamlined workflow from conceptualization to a production-ready application."
+date: 2026-03-08
+tags: ["ai-development","nextjs","openai","fullstack","deployment"]
+source: "https://www.youtube.com/watch?v=UqdX2StVoDs"
+author: "Fazt Code"
+---
+A recent live demonstration illustrated the accelerated development and deployment of a full-stack expense tracker application, significantly leveraging AI-driven tooling. The project, built from scratch and immediately deployed, showcased a workflow where AI facilitates backend, frontend, and database integration. A core feature of the application is its intelligent receipt scanning capability, initially implementing Optical Character Recognition (OCR) via Tesseract.js for basic text extraction. This evolved into a more sophisticated system utilizing OpenAI's GPT-4o API, which not only performs OCR but also automatically categorizes expenses (e.g., "food," "construction") by intelligently interpreting invoice contents. Images are stored and managed through Cloudinary, ensuring robust handling of uploaded receipts.
+
+The development process was orchestrated using Claude Code (or similar LLM-powered editors) to generate and modify the Next.js framework, serving both frontend and backend logic. Data modeling was handled with Prisma, initially on a local SQLite database, which was seamlessly migrated to a production-grade PostgreSQL instance for deployment. Version control was managed via GitHub, with the AI assistant automating commit and push operations. The entire application, including the Next.js web service and the PostgreSQL database, was deployed to a production environment using seenode, a cloud platform chosen for its ease of integration and cost-effectiveness. The demonstration concluded with post-deployment refinements such as dynamic category management, drag-and-drop file uploads, input debouncing, and Dark Mode integration, highlighting the iterative nature of AI-assisted development.
