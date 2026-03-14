@@ -1,0 +1,11 @@
+---
+title: "CanIRun.ai Launches to Demystify Local AI Model Compatibility with Advanced Hardware Detection"
+description: "A new platform, CanIRun.ai, addresses the challenge of identifying compatible local AI models by providing detailed hardware analysis. It offers a sophisticated, browser-based solution for developers and enthusiasts navigating the burgeoning landscape of on-device AI."
+date: 2026-03-13
+tags: ["local-ai","hardware-compatibility","machine-learning","webgpu","model-evaluation"]
+source: "https://www.youtube.com/watch?v=_fEqQp75zic"
+author: "midudev"
+---
+CanIRun.ai, a new platform inspired by CanIUse.com, has launched to simplify the process of determining which local AI models can be executed efficiently on a user's machine. The project aims to overcome the common frustration of ambiguous model compatibility, especially given the varying hardware capabilities of personal computers.
+
+The platform employs a multi-faceted approach to hardware detection, integrating various browser APIs such as WebGPU and WebGL to assess device specifications. It accurately identifies critical components including CPU cores, GPU video memory (VRAM), and bandwidth, performing rapid, non-intrusive benchmarks to enhance its estimations. While acknowledging the inherent challenges of browser-based hardware detection, CanIRun.ai utilizes a complex blend of APIs, including `hardwareConcurrency` and `deviceMemory`, along with proprietary fingerprinting-like techniques to gather maximum information without user tracking. This data is then cross-referenced with an internal database that maps models to specific bandwidth and VRAM requirements. A unique scoring system evaluates models based on both their inherent quality and their performance on the detected hardware, guiding users towards optimal choices. The platform also features dynamic quantification options (e.g., Q4_K_M, noted for its balance of quality and size), detailed model specifications, and a distinctive 'Tierlist' feature that allows users to create and download customized performance rankings. Furthermore, CanIRun.ai offers a simulation mode, enabling users to evaluate model compatibility against hypothetical hardware configurations, aiding in future upgrade decisions.
