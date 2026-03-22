@@ -1,0 +1,13 @@
+---
+title: "Unpacking CD: Can Continuous Delivery Thrive Without Full Automation?"
+description: "Industry veterans Kevin Henny and Dave Farley challenge conventional wisdom, dissecting what Continuous Delivery truly entails when automation is scaled back or absent. They explore historical precedents and current challenges, revealing the core principles essential for effective software delivery."
+date: 2026-03-22
+tags: ["continuous delivery","automation","software development","devops","engineering discipline"]
+source: "https://www.youtube.com/watch?v=u2U1kWHuO7I"
+author: "Modern Software Engineering"
+---
+In a recent discussion on the 'Modern Software Engineering' channel, Kevin Henny and Dave Farley tackled a provocative question: "What does CD without automation look like?" While Continuous Delivery is widely associated with automated pipelines and efficiency, the conversation delved into the fundamental principles that underpin CD, independent of the tools.
+
+Dave Farley defined Continuous Delivery as ensuring software is "always in a releasable state." He acknowledged the common assumption that automation is key to efficiently determining releasability but questioned its absolute necessity. Henny referenced the early days of Continuous Integration (CI) in Extreme Programming, where practices were often social and team-discipline driven, relying on events like a bell and a rubber chicken rather than extensive tooling. This historical perspective suggests that core CD tenets, such as making small, iterative changes and getting fast feedback, can exist even with minimal automation, particularly for smaller teams, less complex systems, or projects with fewer external dependencies.
+
+However, the discussion quickly pivoted to the critical role of automation in scaling and handling complexity. While small projects might manage manual checks, large-scale systems like operating systems, or rapidly evolving AI-driven software, necessitate automation to verify changes quickly and reliably. Automation acts as a multiplier, outsourcing grunt work and mitigating human unreliability in repetitive tasks. The speakers cautioned that automation of a flawed process merely amplifies those flaws, leading to a "sewage pipeline" rather than true Continuous Delivery. Ultimately, while fundamental principles like small steps and maintaining a releasable state are paramount, automation becomes a practical necessity for efficiency, scale, and reliability in most modern software development contexts.
