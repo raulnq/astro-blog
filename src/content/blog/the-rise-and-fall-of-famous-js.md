@@ -1,6 +1,6 @@
 ---
-title: "Famous.js: The $30 Million Bet on GPU-Accelerated CSS That Tried to Reshape the Web"
-description: "Once hailed as the future of web UI, Famous.js garnered $30 million for its radical GPU-driven rendering engine. This article revisits its ambitious attempt to overcome HTML5's limitations and why it ultimately faded into obscurity."
+title: "Famo.us: The $30 Million Bet on GPU-Accelerated CSS That Tried to Reshape the Web"
+description: "Once hailed as the future of web UI, Famo.us garnered $30 million for its radical GPU-driven rendering engine. This article revisits its ambitious attempt to overcome HTML5's limitations and why it ultimately faded into obscurity."
 date: 2026-03-18
 tags: ["web-development","javascript","ui-frameworks","gpu-rendering","tech-history"]
 source: "https://www.youtube.com/watch?v=ReAnFFqvCeA"
