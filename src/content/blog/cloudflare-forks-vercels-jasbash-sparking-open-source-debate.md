@@ -1,0 +1,11 @@
+---
+title: "Cloudflare Forks Vercel's Just bash, Reigniting Open Source Ethics Debate"
+description: "Vercel CTO Malte has publicly criticized Cloudflare for forking his open-source project, Just bash, without prior collaboration attempts, despite the permissive Apache 2.0 license. This incident has sparked a wider discussion on the 'spirit' of open source contribution versus the legal right to fork."
+date: 2026-03-20
+tags: ["open-source","vercel","cloudflare","forking","just-bash"]
+source: "https://www.youtube.com/watch?v=3iLxvp0NNI0"
+author: "midudev"
+---
+A recent software development controversy has emerged between Vercel and Cloudflare following Cloudflare's decision to fork Vercel CTO Malte's open-source project, Just bash. Just bash, an in-memory Bash interpreter designed for AI agents and distributed under the permissive Apache 2.0 license, was forked by Cloudflare to create 'Cloudflare Shell,' a runtime-agnostic Bash interpreter with specific adapters for Cloudflare Workers. Malte publicly expressed his dismay, noting that while the license permits such actions, Cloudflare made no attempt to contribute upstream to Just bash—a project he maintains as the sole contributor, describing it as a 'half-abandoned project.' He highlighted the removal of beta disclaimers and references to Just bash in Cloudflare's version, questioning the spirit of open-source collaboration.
+
+The incident escalated with strong reactions from the community, including accusations that Cloudflare's actions are part of a broader strategy to undermine open source and push proprietary execution environments. However, Sunil Pai, identified as the Cloudflare engineer behind the fork, issued an apology, explaining his intent was experimental, aiming to test functionalities for Cloudflare Workers before proposing contributions to Malte. Pai cited a busy weekend at GSCOM in Madrid as the reason for delayed communication. Despite corporate-level friction, sources indicate that many individuals from both Vercel and Cloudflare maintain positive professional relationships, underscoring the human element often overlooked in company-to-company disputes.
