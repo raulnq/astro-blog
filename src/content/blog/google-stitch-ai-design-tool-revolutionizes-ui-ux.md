@@ -2,7 +2,7 @@
 title: "Google's Stitch Unleashes AI Design Revolution, Challenges Figma and Traditional UI/UX Workflows"
 description: "Google's AI-powered Stitch design tool has received a massive update, fundamentally altering how UI/UX designs are conceived, iterated, and prototyped. This advancement signals a significant shift in the design and front-end development landscape, impacting established tools and workflows."
 date: 2026-03-20
-tags: ["ai-design","ui/ux","google-stitch","design-automation","web-development"]
+tags: ["ai-design","ui-ux","google-stitch","design-automation","web-development"]
 source: "https://www.youtube.com/watch?v=qaB5HF4ax9M"
 author: "Fireship"
 ---

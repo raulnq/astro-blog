@@ -1,6 +1,6 @@
 ---
 title: "Anna Pedra's Two-Year DevOps Leap: From Pay Cut to Exceeding Senior Salary, Certified Golden KubeCon Astronaut"
-description: "Anna Pedra's journey from a senior role in medical devices to a highly sought-after DevOps engineer in under two years exemplifies strategic career transition. Her "triple proof" learning methodology and intentional focus allowed her to outcompete experienced IT professionals and achieve significant salary growth."
+description: "Anna Pedra's journey from a senior role in medical devices to a highly sought-after DevOps engineer in under two years exemplifies strategic career transition. Her 'triple proof' learning methodology and intentional focus allowed her to outcompete experienced IT professionals and achieve significant salary growth."
 date: 2026-03-06
 tags: ["devops","career-switch","kubernetes","cloud-engineering","professional-development"]
 source: "https://www.youtube.com/watch?v=q6x8J7QIakI"
