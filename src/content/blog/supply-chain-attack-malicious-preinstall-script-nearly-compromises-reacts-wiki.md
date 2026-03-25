@@ -1,0 +1,11 @@
+---
+title: "Supply Chain Scare: Malicious Preinstall Script Nearly Compromises Reacts Wiki Project"
+description: "A developer narrowly avoided a sophisticated supply chain attack involving hidden Unicode characters and a multi-stage `eval` payload within a trusted pull request. Learn how the `ignore-scripts` configuration became a crucial defense."
+date: 2026-03-25
+tags: ["supply-chain-attack","security","npm","pnpm","malware"]
+source: "https://www.youtube.com/watch?v=ikdCG4goKIE"
+author: "midudev"
+---
+A developer from the Reacts Wiki project recently detailed a near-catastrophic supply chain attack, narrowly avoiding compromise through a malicious `preinstall` script. The incident unfolded when a pull request from a trusted community member inadvertently introduced highly obfuscated malware. The attack leveraged invisible Unicode characters hidden within `pnpm-lock.yaml` and a `preinstall.js` file, making the payload visually undetectable in standard GitHub diffs. Upon execution, the `preinstall` script employed a multi-stage decoding process utilizing `Buffer.from` and nested `eval` functions to gradually reveal and execute increasingly complex malicious code. This initial payload, executed automatically during a `pnpm install` on the root project, aimed to establish a foothold for deeper system compromise.
+
+Further analysis of the decoded payload revealed a sophisticated attack designed to steal authentication tokens, exfiltrate cookies, and self-replicate across the victim's accessible repositories. Notably, the malware also featured a geopolitical filter, programmed to spare Russian systems. Critically, the developer was saved from infection by a global `ignore-scripts=true` configuration in their `npmrc`, which prevented the `preinstall` hook from executing. This setting, a recommended security best practice for mitigating malicious package scripts, proved indispensable. For systems that do fall victim, immediate disconnection from the internet, changing all credentials from a clean device with 2FA enabled, and a complete system reformat and reinstall are crucial recovery steps, as such malware often embeds persistent and difficult-to-detect components. The incident underscores the critical need for robust supply chain security practices and vigilance against hidden code.
