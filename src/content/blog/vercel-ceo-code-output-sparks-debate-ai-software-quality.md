@@ -1,5 +1,5 @@
 ---
-title: "Vercel CEO Guillermo Rauch Declares "Code is an Output," Sparking Industry Debate on AI's Impact on Software Quality"
+title: "Vercel CEO Guillermo Rauch Declares 'Code is an Output,' Sparking Industry Debate on AI's Impact on Software Quality"
 description: "Vercel CEO Guillermo Rauch's provocative post suggests that code is merely an output, signaling a shift from its traditional glorification, as AI agents focus on requirements. This assertion has ignited a discussion within the developer community regarding the enduring importance of code quality, developer roles, and the evolving nature of software engineering."
 date: 2026-03-25
 tags: ["ai","software development","code quality","developer roles","vercel"]
