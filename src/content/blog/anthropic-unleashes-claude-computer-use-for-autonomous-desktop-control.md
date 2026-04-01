@@ -1,0 +1,11 @@
+---
+title: "Anthropic Unleashes Claude 'Computer Use' for Autonomous Desktop Control, Intensifying AI Automation Race"
+description: "Anthropic has released 'Computer Use,' empowering its Claude LLM with autonomous control over macOS systems, enabling a wide range of automated tasks. This move further escalates competition in the rapidly evolving landscape of AI-driven desktop automation."
+date: 2026-03-27
+tags: ["ai automation","large language models","anthropic","openai","desktop ai"]
+source: "https://www.youtube.com/watch?v=wfeiCZK0mNs"
+author: "Fireship"
+---
+Anthropic has launched "Computer Use" for its Claude large language model, enabling autonomous control over a user's entire computer with a single prompt. This new capability allows Claude to execute tasks such as opening applications, scheduling jobs, and preparing reports, even remotely via mobile devices. Currently available exclusively on macOS, "Computer Use" is positioned amidst CEO Dario's recent predictions that up to 50% of entry-level legal, consulting, and finance roles could be automated within the next one to five years. This release intensifies the competition in autonomous AI agents, particularly following OpenAI's recent acquisition of OpenClaw, an AI personal assistant.
+
+The two platforms present distinct approaches to desktop automation. Anthropic's Computer Use operates as a paid, closed-source system, tethered to Claude models and featuring a permission-first user interaction model for security. In contrast, OpenClaw is free, open-source, runs locally, and is model-agnostic, offering greater flexibility at the cost of requiring command-line proficiency for safe use. While OpenClaw's open nature has drawn warnings from cybersecurity firm Palo Alto Networks regarding potential risks related to data access, untrusted content, and external communication, Computer Use's simpler setup and explicit permission model may appeal to a broader user base. Practical demonstrations suggest these tools can automate a wide range of tasks, from drafting communications and assisting with technical assessments to managing calendar events, participating in virtual meetings with integrated voice models, and orchestrating code development workflows.
