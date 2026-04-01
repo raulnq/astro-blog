@@ -1,0 +1,11 @@
+---
+title: "Demystifying Event-Driven Architecture: Unpacking Overkill vs. Necessity"
+description: "A common industry debate questions if event-driven architecture is overkill for most applications. This article unpacks the widespread confusion surrounding its true purpose, distinguishing essential uses from trendy misapplications."
+date: 2026-03-27
+tags: ["event-driven architecture","event sourcing","software design","distributed systems","architecture patterns"]
+source: "https://www.youtube.com/watch?v=SYokMS3viPA"
+author: "CodeOpinion"
+---
+The discourse around Event-Driven Architecture (EDA) frequently sparks debate: is it genuinely necessary for modern applications, or an overengineered solution for simple CRUD operations? Despite its promotion across tech blogs and by senior engineers, many organizations, including a French startup processing just 10,000 orders monthly, are adopting complex patterns like Event Sourcing, often misunderstanding their fundamental purpose. Critics point to the irony of large monoliths handling ten times that traffic without such elaborate setups, highlighting a pervasive confusion regarding EDA's core utility and specific benefits beyond perceived scalability.
+
+The core of this confusion lies in distinguishing various applications of events. While EDA can offer scaling benefits through patterns like competing consumers, its primary value stems from decoupling responsibilities and providing temporal independence. Events, distinct from commands, serve as immutable facts that something has occurred, allowing independent system components to react without direct invocation. For instance, a package *delivery* command triggers a `PackageDelivered` event, enabling separate services to handle notifications or third-party integrations asynchronously. Event Sourcing, a different utility, uses events as the definitive source of truth, capturing a chronological stream of domain-specific facts (e.g., `OrderDispatched`, `ItemLoaded`) to reconstruct state at any point, providing invaluable historical context. Applying event sourcing for mere state recording, often dubbed "CRUD sourcing," misinterprets its intent, which is to preserve meaningful domain history.
