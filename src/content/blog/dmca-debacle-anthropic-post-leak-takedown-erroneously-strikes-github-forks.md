@@ -1,0 +1,11 @@
+---
+title: "DMCA Debacle: Anthropic's Post-Leak Takedown Effort Erroneously Strikes Thousands of GitHub Forks"
+description: "Following the recent Claude Code source leak, Anthropic filed a broad DMCA notice on GitHub, inadvertently targeting thousands of legitimate forks, including one with a single-word change. The incident quickly led to a retraction and a public explanation from the AI company regarding a communication error."
+date: 2026-04-03
+tags: ["anthropic","dmca","github","source code","claude"]
+source: "https://www.youtube.com/watch?v=icu0GZcSb58"
+author: "Theo - t3․gg"
+---
+In the wake of a significant Claude Code source leak, Anthropic issued a Digital Millennium Copyright Act (DMCA) takedown request that inadvertently swept broadly, impacting thousands of GitHub repositories. A developer reported receiving a DMCA notice for a fork of the official Claude Code repository—not the leaked source—where they had merely altered one word in a skill file. The notice, filed against a 'network of 8,100 repositories,' raised immediate concerns about the legality of enforcing DMCA against non-infringing content, particularly given that intentionally filing a false DMCA is unlawful.
+
+Anthropic swiftly retracted the widespread DMCA notices, clarifying that the broader action was an unintentional 'communication mistake' and that the intended targets were only the direct mirror of the leaked code and its immediate forks. Company employees, including Thoric and Boris, publicly engaged to explain the error and address community concerns, attributing the incident to a breakdown in communication, potentially between their legal team and GitHub, or GitHub's internal process. This event has further intensified calls within the developer community for Anthropic to consider open-sourcing Claude Code, arguing that the reputational and operational costs of maintaining its closed-source status now far outweigh any perceived benefits, especially in light of recurring incidents like the recent leak and the subsequent DMCA overreach.
