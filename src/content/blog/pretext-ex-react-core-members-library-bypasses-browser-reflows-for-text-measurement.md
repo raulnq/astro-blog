@@ -1,0 +1,11 @@
+---
+title: "Pretext: Ex-React Core Member's Library Bypasses Browser Reflows for Text Measurement"
+description: "Changlu, formerly of React Core and Midjourney, has unveiled Pretext, a pure TypeScript library designed to eliminate performance bottlenecks in UI development by offloading text measurement from the browser. This innovation promises to unlock new possibilities for complex, text-heavy interfaces without triggering costly layout reflows."
+date: 2026-04-03
+tags: ["pretext","ui-development","performance","typescript","web-development"]
+source: "https://www.youtube.com/watch?v=vd14EElCRvs"
+author: "Fireship"
+---
+Changlu, a former React core team member and engineer at Midjourney, has launched Pretext, a novel text measurement library written entirely in TypeScript. Announced on April 2, 2026, Pretext aims to tackle a long-standing performance challenge in UI development: the high cost associated with dynamically measuring text dimensions. Traditional browser-based text measurement often triggers layout reflows, an expensive operation that recalculates the position and geometry of elements across the entire page. This process severely hinders the performance of text-heavy UIs such as virtualized lists or masonry layouts, making it unreasonably difficult to build highly dynamic interfaces.
+
+Pretext bypasses this conventional browser rendering pipeline through an innovative approach. For text width, it leverages the Canvas API, which operates outside the DOM, enabling pixel-perfect string width measurement in any font without triggering reflows. Determining text height, however, required a custom algorithm developed by Changlu. This algorithm meticulously accounts for line-breaking rules across various browsers and languages, a process reportedly refined through an automated, iterative testing methodology. The library offers a simple API, with functions like `prepare` for segmenting and caching text widths, and `layout` for obtaining total height and line count—all without DOM interaction or reflows. This foundational shift could empower developers to build highly performant and complex text-centric applications previously constrained by browser limitations, demonstrating that text measurement no longer solely belongs to the browser's domain.
