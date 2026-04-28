@@ -1,0 +1,11 @@
+---
+title: "GitHub Copilot Undergoes Drastic Pricing and Feature Model Overhaul"
+description: "GitHub Copilot is implementing significant changes to its individual plans, including increased usage costs, model deprecations, and a shift to a credit-based billing system, sparking concerns among developers."
+date: 2026-04-28
+tags: ["github-copilot","pricing","ai","developer-tools","subscription-changes"]
+source: "https://www.youtube.com/watch?v=cWsDMB6LKfQ"
+author: "midudev"
+---
+GitHub Copilot has initiated substantial modifications to its individual subscription plans, effective April 20th. Key changes include widespread registration difficulties for Pro Plus and student plans, new daily and weekly usage limits, and the deprecation of several advanced AI models. Specifically, all Opus models (4.5, 4.6, 4.7) have been removed from the Pro subscription, while Pro Plus retains only Opus 4.7. Alongside these changes, the annual subscription option has been discontinued, forcing all subscribers onto a $10/month plan, effectively increasing the cost for those who previously benefited from annual discounts. These adjustments also saw a dramatic increase in credit consumption multipliers, with models like Opus 4.7 and the newly introduced GPT 5.5 now consuming 7.5x more credits than previous iterations such as GPT 5.4 (1x).
+
+Further exacerbating the impact on developers, GitHub announced an additional overhaul just one week later, revealing a shift to a usage-based billing model, effective June 1st. This new system will introduce 'GitHub AI Credits,' where the current $10/month subscription will translate into $10 worth of AI credits. While auto-completions and basic edits will not consume these credits, advanced agentic workflows, cited as the reason for the change, will. The cost of each interaction will be determined by the model used and the number of input/output/cached tokens consumed, with each AI credit valued at $0.01. Alarmingly, the initially announced 7.5x multipliers for some models are described as temporary offers, with future multipliers set to increase significantly; for instance, Gemini 3 Pro and GPT 5.4 are slated to rise from 1x to 6x. This transition marks a fundamental change in how developers will incur costs for advanced Copilot features, suggesting a substantial rise in operational expenses for heavy users.
