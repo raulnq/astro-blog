@@ -2,7 +2,7 @@
 title: "Test Sprite Unveils AI-Powered End-to-End Testing Automation Across Development Workflows"
 description: "Test Sprite revolutionizes software quality assurance by offering fully automated, AI-driven end-to-end testing, seamlessly integrating with popular IDEs and CI/CD pipelines. This innovative platform generates, executes, and records tests, providing unparalleled visibility into application behavior."
 date: 2026-03-26
-tags: ["ai-testing","e2e-testing","ci/cd","software-quality","developer-tools"]
+tags: ["ai-testing","e2e-testing","ci-cd","software-quality","developer-tools"]
 source: "https://www.youtube.com/watch?v=UiLYVCx8qx4"
 author: "Fazt Code"
 ---

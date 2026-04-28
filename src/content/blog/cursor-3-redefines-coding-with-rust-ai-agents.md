@@ -1,6 +1,6 @@
 ---
 title: "Cursor 3.0 Relaunches in Rust, Pivoting to AI Agent Orchestration and Unveiling Composer 2 Model"
-description: "Cursor 3.0 introduces a fundamental rewrite in Rust, moving beyond VS Code to position developers as "air traffic controllers" for AI agent swarms. The release also features the new Composer 2 model, sparking debate over its origins and performance claims."
+description: "Cursor 3.0 introduces a fundamental rewrite in Rust, moving beyond VS Code to position developers as 'air traffic controllers' for AI agent swarms. The release also features the new Composer 2 model, sparking debate over its origins and performance claims."
 date: 2026-04-07
 tags: ["ai agents","rust","ide","code generation","large language models"]
 source: "https://www.youtube.com/watch?v=JSuS-zXMVwE"

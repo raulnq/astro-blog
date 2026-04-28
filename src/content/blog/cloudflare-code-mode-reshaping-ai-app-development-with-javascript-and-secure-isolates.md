@@ -1,6 +1,6 @@
 ---
 title: "Cloudflare's Code Mode: Reshaping AI App Development with JavaScript and Secure Isolates"
-description: "Sunil Pai of Cloudflare unveils "Code Mode," an innovative approach enabling LLMs to generate JavaScript for efficient tool interaction. This strategy aims to revolutionize AI application development, advocating for secure, dynamic code execution."
+description: "Sunil Pai of Cloudflare unveils 'Code Mode,' an innovative approach enabling LLMs to generate JavaScript for efficient tool interaction. This strategy aims to revolutionize AI application development, advocating for secure, dynamic code execution."
 date: 2026-03-31
 tags: ["ai","javascript","cloudflare","code-mode","serverless"]
 source: "https://www.youtube.com/watch?v=X_v1cjA35D0"
