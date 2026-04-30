@@ -1,0 +1,11 @@
+---
+title: "Anthropic's Claude Models Face Widespread Performance Regression, Sparking Developer Outcry"
+description: "Developers report significant degradation in Claude Opus 4.7 and Sonnet 4.6, prompting an AMD AI director to criticize the models as 'dumber and lazier.' Quantitative benchmarks and technical analysis point to multi-layered issues affecting quality and efficiency."
+date: 2026-04-24
+tags: ["anthropic","claude","llm","performance-regression","ai-development"]
+source: "https://www.youtube.com/watch?v=KFisvc-AMII"
+author: "Theo - t3․gg"
+---
+Widespread reports indicate a significant performance regression across Anthropic's Claude models, particularly Opus 4.7 and Sonnet 4.6, with developers describing them as 'dumber and lazier' since recent updates. A quantitative analysis by AMD's AI director highlights a direct correlation between 'thinking content redaction' and a measured quality decline in complex engineering workflows, noting a 73% drop in thinking depth and significant increases in user frustration and reasoning loops. This degradation is further substantiated by Margin Labs, which reported a consistent dip in SWE bench performance from 57% to 55% since March, and BridgeMind's hallucination benchmark showing Opus 4.6 regressing from 87.6% to 73.3% from launch to April 12th, validating anecdotal user experiences of task refusals, 'dumber solutions,' and 'getting lost.'
+
+Technical scrutiny reveals multi-layered contributing factors, including critical inefficiencies within the Claude Code harness, which benchmarks show performing 15% worse than alternative interfaces like Cursor and scoring merely 58% on Terminal Bench. API-level changes are also implicated, such as Opus 4.7's updated tokenizer increasing token counts by up to 1.47x for the same content, potentially inducing context bloat. Furthermore, Anthropic's September post-mortem acknowledged that the 1 million token context window version of the model is 'dumber,' yet this version is now the default for Claude Code users, requiring manual opt-out. These issues collectively contribute to a drastic increase in resource consumption, with 80 times more API requests and 64 times more output tokens yielding demonstrably worse results for the same human effort, a stark contrast to the consistent stability observed in OpenAI's models.
