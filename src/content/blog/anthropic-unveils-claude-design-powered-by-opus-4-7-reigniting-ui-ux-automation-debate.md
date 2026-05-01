@@ -1,0 +1,11 @@
+---
+title: "Anthropic Unveils 'Claude Design,' Powered by Opus 4.7, Reigniting UI/UX Automation Debate"
+description: "Anthropic's new Claude Design, leveraging the advanced Opus 4.7 model, aims to transform nascent Figma designs into full prototypes and production-ready UIs. This release has already triggered significant market shifts and industry discussions."
+date: 2026-04-25
+tags: ["ai design","anthropic","opus 4.7","ui/ux","generative ai"]
+source: "https://www.youtube.com/watch?v=jeA-KBv0b68"
+author: "Fireship"
+---
+Anthropic has announced the release of Claude Design, a new platform leveraging its flagship Opus 4.7 model, poised to significantly impact UI/UX development. The tool reportedly transforms initial Figma designs into functional prototypes, pitch decks, and production-ready user interfaces without requiring traditional design software. This launch has immediately sent ripples through the tech ecosystem, with Figma stock reportedly dropping 7% within hours of the announcement. Speculation suggests broader implications, from the funding landscape for AI design startups to a shift in job titles for junior UI designers towards 'prompt engineer' roles.
+
+Opus 4.7, released just last week, is marketed with enhanced creative capabilities and features improved image processing up to 3.75 megapixels, supporting images with a long edge of 2576 pixels. On the software engineering benchmark, it achieved an 87.6% score, surpassing Opus 4.6, though it still trails the mysterious Mythos model. Despite these benchmarks, a segment of the online community has voiced skepticism, labeling Opus 4.7 as a regression and fueling a conspiracy theory about intentional performance degradation of its predecessor. Claude Design demonstrates advanced interactive features, including out-of-the-box animations, variations for UI elements, shader-based animations, and the capability to produce full-length video animations over a minute. It supports integrating existing design systems via GitHub repositories or direct Figma file uploads. However, a practical evaluation noted that the platform was slower than competitors and encountered issues with consistently applying uploaded design systems and executing specific design fixes.
