@@ -1,0 +1,11 @@
+---
+title: "AI Emerges as the 'New Stack,' Reshaping Software Development Paradigm"
+description: "Industry observers highlight AI as the next fundamental shift in software development, positioning it as the 'new stack' over traditional frameworks. Developers must now master local LLMs and advanced model orchestration to thrive in this rapidly evolving landscape."
+date: 2026-05-01
+tags: ["ai","llm","software development","tech stack","local models"]
+source: "https://www.youtube.com/watch?v=sI6P20KueUA"
+author: "Stefan Mischook"
+---
+The landscape of software development is undergoing a profound "paradigm shift," with AI emerging as the "new stack," according to industry observations. This transformation is not seen as competition for developers but rather for established frameworks like React or Node.js. A critical component of this evolving toolkit is the ability to run local Large Language Models (LLMs), which are increasingly viable alternatives to cloud-based solutions, offering significant cost savings and enhanced control. While fundamental coding principles and understanding the web stack remain essential, the demand for developers skilled in the AI stack is rapidly outpacing supply, creating substantial market opportunities.
+
+Modern developers must grasp the nuances between cloud and local LLMs, recognizing their respective strengths and weaknesses. Local models, which are free of token costs and offer full control and theoretical security benefits, are advancing rapidly, often sufficient for many applications. Crucially, expertise in "AI harnessing" and orchestration—the process of configuring, massaging, and coordinating LLMs—is becoming paramount. This involves strategic utilization of various models, potentially combining cloud and local instances in multi-pass, iterative workflows to optimize for performance, cost, and specific task requirements. Unlike "marginal technologies" such as Web3/Crypto, AI is generating entirely new use cases and capabilities previously unachievable with traditional development, signaling a fundamental transformation in how applications are built and delivered. The ongoing debate around data ownership for LLM training also underscores the new complexities developers must navigate.
