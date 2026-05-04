@@ -1,0 +1,11 @@
+---
+title: "CopyFail: Critical Linux Kernel Flaw Discovered by AI Demands Immediate Patching"
+description: "A universal privilege escalation flaw, dubbed CopyFail (CVE-2026-31431), has been found in the Linux kernel, affecting nearly all machines updated since 2017. Discovered by an AI scanning tool, this vulnerability is already being exploited in the wild, necessitating urgent system updates."
+date: 2026-05-04
+tags: ["linux","kernel","vulnerability","privilege escalation","ai security"]
+source: "https://www.youtube.com/watch?v=lkifbWtxxlk"
+author: "Fireship"
+---
+A critical logic flaw, identified as CopyFail (CVE-2026-31431), has been discovered in the Linux kernel, granting unprivileged local users root access. Present since 2017, the vulnerability was unearthed by an AI scanning tool from Theori in approximately one hour, leading to the public release of a proof-of-concept (PoC) exploit. This universal privilege escalation affects virtually every Linux distribution, including Debian, Arch, and Red Hat, if running a kernel version updated post-2017. The severity is underscored by confirmation from CrowdStrike of active exploitation in the wild and its inclusion on CISA's Known Exploited Vulnerabilities (KEV) list, signaling an immediate and widespread threat. System administrators and users are urged to update their Linux machines without delay.
+
+The technical exploit leverages a weakness within the Linux kernel's `AF_AGL` interface, which exposes kernel crypto algorithms to user space. Specifically, it targets the `ONC ESN` (Authentication Encryption Extended Sequence Numbers) functionality. A bug in the `AFG splice` function causes `ONC ESN` to incorrectly write four bytes of scratch data into what it believes is a crypto output buffer. This buffer can be maliciously redirected to point into the page cache of a read-only file, such as `/usr/bin/su`, allowing an unprivileged local user to write uncontrolled bytes and subsequently gain root access. While CopyFail is not remotely exploitable, requiring an existing local user or initial system compromise, its pervasive nature and ease of exploitation via readily available scripts make it an exceptionally high-risk vulnerability.
