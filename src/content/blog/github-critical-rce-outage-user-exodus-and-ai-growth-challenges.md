@@ -1,0 +1,11 @@
+---
+title: "GitHub Rocked by Critical RCE Vulnerability, High-Profile User Exodus, and AI-Driven Growth Challenges"
+description: "A severe RCE vulnerability allowed arbitrary code execution via a simple `git push`, impacting millions of repositories. Meanwhile, a prominent developer abandons GitHub, citing persistent reliability issues exacerbated by exponential AI-driven usage and rising infrastructure costs."
+date: 2026-05-06
+tags: ["github","rce","vulnerability","developer-relations","ai-impact"]
+source: "https://www.youtube.com/watch?v=p2tltiHHQ0w"
+author: "midudev"
+---
+GitHub recently patched a critical Remote Code Execution (RCE) vulnerability that could have allowed attackers to inject data into an internal header during a `git push`, leading to arbitrary code execution on GitHub's servers. This flaw provided superuser access, potentially exposing millions of private repositories across GitHub.com and GitHub Enterprise instances. Discovered through AI-augmented reverse engineering, the vulnerability on GitHub.com was remediated within hours, with no evidence of exploitation, likely resulting in one of the platform's largest bug bounty payouts. However, a significant percentage of GitHub Enterprise Server instances remained vulnerable at the time of initial disclosure, urging immediate updates for self-hosted deployments.
+
+In related news, the creator of the popular Ghosti terminal, a long-time GitHub user, announced their departure from the platform, citing persistent frustration with declining reliability and functionality, particularly GitHub Actions. This exodus comes as industry figures, including Replit CEO Amjad Masad, highlight the increasing strain on GitHub's infrastructure. Masad attributes service degradation to exponential growth in developer activity and "human-level bots," suggesting free services may become unsustainable. The massive surge in pull requests, commits, and new repositories, coupled with soaring cloud storage costs (e.g., SSD prices), presents significant operational challenges, prompting discussions around potential solutions like micropayments to ensure long-term sustainability and reduce spam. Additionally, GitHub has removed the GPT-5.3 Codex model from its Copilot student plan, further impacting developer access to advanced AI tools.
