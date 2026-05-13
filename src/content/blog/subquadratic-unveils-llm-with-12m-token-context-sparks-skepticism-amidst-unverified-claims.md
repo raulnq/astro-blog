@@ -1,0 +1,11 @@
+---
+title: "Subquadratic Unveils LLM with 12M Token Context, Sparks Skepticism Amidst Unverified Claims"
+description: "A new LLM, Subquadratic, promises revolutionary advancements with a 12-million-token context window and unprecedented efficiency, yet a lack of public access and technical reports raises industry eyebrows."
+date: 2026-05-13
+tags: ["llm","ai architecture","sparse attention","ai funding","ai bubble"]
+source: "https://www.youtube.com/watch?v=38Iww5uoYjc"
+author: "midudev"
+---
+Subquadratic (subq) has announced a new large language model (LLM) claiming a "great advance in LLM intelligence," built on a novel completely sub-quadratic sparse attention architecture. The model reportedly offers a 12-million-token context window, a significant leap in capacity, alongside substantial performance gains: 52 times faster than Flash Attention at 1 million tokens and operating at less than 5% the cost of models like Opus. Subquadratic attributes these efficiencies to a re-engineered attention mechanism that intelligently filters and focuses only on relevant token relationships, theoretically achieving "almost 1000 times less compute" by discarding what it deems "uninteresting" parts of the input.
+
+Despite these impressive claims, including an accompanying code agent called subq Code, Subquadratic is currently available only via Early Access, with no tangible public API or code for immediate use, raising questions within the tech community. The company recently secured $29 million in a seed funding round from notable investors such as Javier Villamizar (Softbank) and Justin Mateen (Tinder co-founder). However, the absence of a comprehensive technical report or verifiable benchmarks fuels skepticism, with some observers pointing to the short tenures in previous roles of co-founder and CTO Alex Widon as an additional yellow flag. This situation, alongside the emergence of products like 'AI Coverage' insurance for AI failures, suggests growing concerns about an accelerating AI bubble and the verification challenges posed by highly ambitious, unproven technological advancements.
