@@ -2,7 +2,7 @@
 title: "Anthropic Unveils Claude Design, Aims to Streamline AI-Powered UI/UX Development"
 description: "Anthropic has launched Claude Design, an AI-powered platform aimed at transforming UI/UX workflows by bridging design and development. Early impressions highlight its innovative features for rapid prototyping and code hand-off, alongside notable early-stage challenges."
 date: 2026-04-24
-tags: ["ai design","ui/ux","anthropic","claude","software development"]
+tags: ["ai design","ui-ux","anthropic","claude","software development"]
 source: "https://www.youtube.com/watch?v=wDgq9aiuL-w"
 author: "Theo - t3․gg"
 ---

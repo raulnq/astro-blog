@@ -1,6 +1,6 @@
 ---
 title: "The 'Interface Tax': How Over-reliance on Mocks May Be Stifling Development Speed"
-description: "A recent discussion highlights the "interface tax" where interfaces are created solely for testing, potentially hurting velocity. This follow-up explores alternative strategies for creating testable "seams" without defaulting to interfaces."
+description: "A recent discussion highlights the 'interface tax' where interfaces are created solely for testing, potentially hurting velocity. This follow-up explores alternative strategies for creating testable 'seams' without defaulting to interfaces."
 date: 2026-04-15
 tags: ["software-architecture","testing","developer-velocity","design-patterns","dependency-injection"]
 source: "https://www.youtube.com/watch?v=9fHk8p9N5z0"

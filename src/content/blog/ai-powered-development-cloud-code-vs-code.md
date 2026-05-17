@@ -1,5 +1,5 @@
 ---
-title: "AI-Powered Development: Claude Code in VS Code Unlocks Full Control for "Vibe-Coding" Applications"
+title: "AI-Powered Development: Claude Code in VS Code Unlocks Full Control for 'Vibe-Coding' Applications"
 description: "A recent demonstration showcased how developers can leverage Claude Code within VS Code to build complex applications through conversational AI, offering full control over the generated codebase. This approach provides a powerful alternative to traditional 'Vibe-Coding' platforms, integrating robust backend services and payment solutions."
 date: 2026-04-13
 tags: ["claude-code","ai-development","vs-code","supabase","stripe"]

@@ -1,5 +1,5 @@
 ---
-title: "Antropic's Claude Unveils AI-Powered "Claude Design" for Web, App, and System Generation"
+title: "Antropic's Claude Unveils AI-Powered 'Claude Design' for Web, App, and System Generation"
 description: "Antropic's new Claude Design feature empowers users with an AI-driven visual canvas for creating interactive websites, applications, presentations, and design systems. Currently in research preview, it signals a potential shift into the visual development space, challenging traditional low-code platforms."
 date: 2026-04-24
 tags: ["ai-design","low-code","no-code","antropic-claude","ui-ux"]

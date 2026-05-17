@@ -2,7 +2,7 @@
 title: "Debunking AI Job Loss Fears: Developer Roles Are Shifting, Not Disappearing"
 description: "Industry veterans draw historical parallels to reassure developers about AI's impact on job security. Learn why core UX/UI skills remain critical and how AI acts as an efficiency tool, not a replacement."
 date: 2026-04-13
-tags: ["ai","developer jobs","ux/ui","tech trends","career advice"]
+tags: ["ai","developer jobs","ux-ui","tech trends","career advice"]
 source: "https://www.youtube.com/watch?v=alsPNFIobvA"
 author: "Stefan Mischook"
 ---

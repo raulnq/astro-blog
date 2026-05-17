@@ -2,7 +2,7 @@
 title: "Anthropic Unveils 'Claude Design,' Powered by Opus 4.7, Reigniting UI/UX Automation Debate"
 description: "Anthropic's new Claude Design, leveraging the advanced Opus 4.7 model, aims to transform nascent Figma designs into full prototypes and production-ready UIs. This release has already triggered significant market shifts and industry discussions."
 date: 2026-04-25
-tags: ["ai design","anthropic","opus 4.7","ui/ux","generative ai"]
+tags: ["ai design","anthropic","opus 4.7","ui-ux","generative ai"]
 source: "https://www.youtube.com/watch?v=jeA-KBv0b68"
 author: "Fireship"
 ---
