@@ -1,0 +1,11 @@
+---
+title: "Bun Undergoes Ambitious Rewrite from Zig to Rust Amidst Mounting Stability Concerns"
+description: "The high-performance JavaScript runtime Bun is undertaking a significant rewrite from its original Zig implementation to Rust. This strategic shift aims to address persistent stability issues and growing developer uncertainty about its future trajectory."
+date: 2026-05-12
+tags: ["bun","rust","zig","javascript-runtime","ai-coding"]
+source: "https://www.youtube.com/watch?v=vMH5SnL4grM"
+author: "Theo - t3․gg"
+---
+Bun, the much-touted JavaScript runtime, is currently undergoing a substantial rewrite in Rust, moving away from its original Zig codebase. This bold initiative comes as several developers, including Dax from Open Code, voiced significant concerns over Bun's stability, particularly on Windows, its Electron compatibility, and general uncertainty regarding its long-term future. Open Code recently migrated from Bun to Node.js, citing these issues and the desire for more predictable development. The rewrite addresses a perceived "stalemate" stemming from challenges within the Zig ecosystem, including community issues and a complex relationship between the Bun and Zig teams, as detailed in an article by William Johnson.
+
+The rewrite, which Jared (Bun's creator) confirms is already well underway with 99.8% of Bun's pre-existing test suites passing on Linux x64 Glibc in the Rust implementation, is reportedly leveraging AI tools like Mythos for code migration. While Zig is praised for its powerful `comptime` features, its inherent lack of memory safety and challenges in cross-platform stability (especially Windows) have been pain points. The transition to Rust is intended to improve memory safety, prevent common bugs, and enhance stability across systems, despite Rust's potentially slower compilation times and different approaches to module organization. Jared has publicly stated that the Rust port will only be merged if it is "measurably better than the Zig implementation in performance, memory usage, and of course, stability," with stability being the paramount priority. This ambitious rewrite is poised to offer significant lessons in large-scale AI-assisted software migration and redefine Bun's foundational technology stack.
