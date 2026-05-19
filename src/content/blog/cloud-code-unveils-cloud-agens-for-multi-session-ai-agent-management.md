@@ -1,0 +1,13 @@
+---
+title: "Claude Code Introduces Claude Agens for Streamlined Multi-Project AI Agent Workflow"
+description: "Claude Code has launched Claude Agens, a new feature enabling developers to manage multiple AI agent sessions across diverse projects from a single interface. This aims to simplify complex development workflows, though it is currently in preview with noted performance considerations."
+date: 2026-05-15
+tags: ["Claude code","ai agents","developer tools","multi-session","productivity"]
+source: "https://www.youtube.com/watch?v=KYOufxxsibI"
+author: "Fazt"
+---
+Claude Code has announced the release of Claude Agens, a new feature designed to enhance developer productivity by allowing the management of multiple AI agent sessions across various projects within a single Claude Code interface. This innovative addition aims to consolidate workflows that previously required developers to juggle numerous terminal tabs or separate terminal windows for each agent session. Claude Agens is now available to all users with paid Claude Code plans, marking a significant step towards more integrated AI-assisted development environments.
+
+Claude Agens offers a centralized view for active agent sessions, providing functionalities like renaming, reordering, and pinning sessions for better organization. Developers can initiate multiple tasks for an agent, switch between them, and even close sessions, with Claude Agens retaining their state for later resumption. The system intelligently segregates sessions by project directory, allowing for distinct sets of agent activities per codebase. It also introduces shortcuts for quick interactions, such as responding to agent prompts directly from the session list, and supports both keyboard navigation and mouse interaction. However, the feature, currently in preview, has been noted for performance inconsistencies, including occasional delays and freezes. It also does not support the 'Dangerous Skip Permission' mode directly, advising users to utilize 'automode' for autonomous AI execution.
+
+While the concept of Claude Agens is highly promising for managing concurrent AI development tasks, initial user feedback points to areas for improvement in stability and responsiveness. The current implementation can exhibit slowness and occasional bugs, leading some users to prefer traditional terminal setups like Warp, which already offer robust multi-tab and panel management. Despite these early-stage limitations, Claude Code is expected to refine Claude Agens in upcoming updates, aiming to deliver a more seamless and efficient multi-agent experience for developers engaged in complex, AI-driven projects.
