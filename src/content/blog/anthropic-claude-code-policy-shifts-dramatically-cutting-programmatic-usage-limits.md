@@ -1,0 +1,11 @@
+---
+title: "Anthropic's Claude Code Policy Shifts, Dramatically Cutting Programmatic Usage Limits"
+description: "Anthropic has unveiled a new credit system for programmatic Claude Code usage, effectively slashing accessible inference for developers building on the Agent SDK. The move has ignited significant controversy within the developer community."
+date: 2026-05-15
+tags: ["anthropic","claude","developer policy","llm","open source"]
+source: "https://www.youtube.com/watch?v=131yAOjxHHQ"
+author: "Theo - t3․gg"
+---
+Anthropic has announced a significant policy adjustment for its Claude Code offering, introducing a dedicated monthly credit system for programmatic usage, effective June 15th. Paid Claude plans will now receive a credit equivalent to their subscription tier ($20, $100, or $200 per month) specifically for tools built on the Agent SDK, Claude-P, Claude Code GitHub actions, and other third-party integrations. This change, which requires users to manually claim credits starting June 8th, delineates a sharp distinction between “interactive” use of Claude (via the official Claude.ai website or desktop app) and “programmatic” use, with vastly different implications for developers.
+
+While interactive Claude Code usage retains its highly subsidized limits—potentially equivalent to thousands of dollars in monthly inference—programmatic use is now capped by the new, much smaller credit. This translates to an estimated 25x to 40x reduction in available inference for developers who had previously relied on the Agent SDK and Claude-P for building open-source wrappers, custom UIs, or CI/CD integrations. The developer community, including creators of tools like T3 Code, Zed, and OpenClaw, has expressed profound frustration, viewing the shift as a betrayal of prior assurances and an effective “attack on open source” development around Claude models. Critics argue that the move forces developers to either use Anthropic’s closed-source, often-criticized interfaces or incur significantly higher API costs, ultimately aiming to funnel users towards unsubsidized enterprise API consumption. This policy has led to calls for developers to explore alternative large language models and SDKs.
