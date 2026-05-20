@@ -1,0 +1,11 @@
+---
+title: "GitHub Confirms Major Breach: Internal Repositories Compromised via Malicious VS Code Extension"
+description: "GitHub has confirmed a significant security incident involving unauthorized access and exfiltration of nearly 4,000 internal private repositories. The breach was traced to a poisoned Visual Studio Code extension on an employee's device."
+date: 2026-05-20
+tags: ["github","security-breach","vscode","supply-chain-attack","cybersecurity"]
+source: "https://www.youtube.com/watch?v=QTEPwr0owo8"
+author: "midudev"
+---
+GitHub has confirmed a significant security breach, revealing unauthorized access to approximately 3,800 to 4,000 of its internal, private code repositories. The incident, claimed by the group Team PCP—known for previous malicious package campaigns targeting Python and JavaScript ecosystems—stemmed from a 'poisoned Visual Studio Code extension' installed on an employee's device. This malicious extension provided attackers with access to internal tokens, enabling the exfiltration of sensitive code. Reports indicate that the stolen data, which potentially includes core GitHub infrastructure components, is being offered for sale, with bidding starting at $50,000. One of the cybercriminals involved stated GitHub was aware of the breach for hours and suggested a lack of transparency.
+
+In response, GitHub stated it detected and contained the breach, confirming exfiltration of internal repositories consistent with the attacker's claims. While the company has not found evidence of impact on customer information stored outside these specific internal repositories, it has initiated a rapid response, including the rotation of critical internal secrets (e.g., tokens, API keys). GitHub is actively monitoring its infrastructure and has pledged to release a comprehensive report upon concluding its investigation. This incident underscores the critical importance of supply chain security, particularly concerning editor extensions. Developers and organizations are strongly advised to meticulously vet VS Code extensions by verifying author authenticity and history, enforce strict control over permissible extensions within corporate environments, and minimize the overall number of installed extensions to mitigate similar risks.
