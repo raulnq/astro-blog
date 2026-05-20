@@ -1,0 +1,11 @@
+---
+title: "Google Unifies AI Code Tools Under Antigravity, Launches Gemini 3.5 Flash Amidst Editor Overhaul"
+description: "Google has consolidated its AI-powered code services under the Antigravity brand, introducing Gemini 3.5 Flash and a re-architected toolchain. Discover the new unified experience and the controversial transformation of the Antigravity code editor."
+date: 2026-05-20
+tags: ["google","antigravity","gemini-ai","code-generation","developer-tools"]
+source: "https://www.youtube.com/watch?v=xXOPsSOcyAw"
+author: "Fazt"
+---
+Google has announced a sweeping update to its AI development ecosystem, consolidating previously disparate services like Google CLI and various SDKs under a unified Antigravity brand. This overhaul introduces Antigravity CLI, rebuilt from scratch in Go for enhanced performance and positioning it as a direct competitor to services like Cloud Code, complete with features such as sub-event launching and graphical desktop environment integration. Central to this update is the integration of the new Gemini 3.5 Flash model, a fast, multimodal AI designed for code generation and capable of generating graphics, now freely available across Antigravity tools and via API using the GNI package. Google AI Studio has also been significantly enhanced, offering deeper integration with Google's suite of services (Sheets, Gmail, Meet) and enabling automatic deployment to Google Cloud without a credit card, facilitating the creation and publishing of web and native Android applications, akin to modern low-code/no-code platforms.
+
+The most impactful change, however, is the radical transformation of the Antigravity code editor. It has been reimagined as a chat-first, AI-driven interface, mirroring tools like GPT Desktop or Codex, where users interact primarily through conversational prompts rather than direct code editing. This shift has sparked considerable discontent within the developer community, with many users reporting the loss of their traditional editor experience post-update, forcing them to adapt to an AI-guided workflow. While this move aligns with a broader industry trend of AI companies transitioning towards unified, chat-centric coding environments, the abrupt change has left a segment of Antigravity's user base seeking alternative traditional editors.
