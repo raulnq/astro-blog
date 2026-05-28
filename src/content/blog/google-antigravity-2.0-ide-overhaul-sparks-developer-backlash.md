@@ -1,0 +1,11 @@
+---
+title: "Google's Antigravity 2.0 Launch Plunges Developers into Discontent with IDE Overhaul"
+description: "Google's latest Antigravity 2.0 update sparked significant backlash among developers following a controversial decision to de-integrate its core IDE. The move led to widespread criticism, prompting quick amends from Google DeepMind."
+date: 2026-05-28
+tags: ["google","antigravity","ide","developer tools","deepmind"]
+source: "https://www.youtube.com/watch?v=KR4PDUnftOg"
+author: "midudev"
+---
+Google's Antigravity 2.0, introduced at Google I/O, has been met with significant developer backlash following a drastic restructuring that saw its primary integrated development environment (IDE) removed from the main application and re-released as a separate component, Antigravity ID. This unexpected shift reconfigured the core Antigravity 2.0 solely for agent management alongside new CLI and SDK tools, leaving many users without their familiar coding environment upon updating. The community's immediate reaction highlighted numerous critical issues, including bugs, loss of existing configurations without automatic migration, and the necessity to separately reinstall the editor, causing widespread frustration and rendering previous setups inoperable for some users.
+
+Varun Mohan, a lead from Google DeepMind's Antigravity team, publicly addressed the wave of criticism, particularly concerning the IDE's controversial de-integration. Mohan acknowledged the oversight, stating that removing IDE support was never the intention and admitting to a lack of clarity in the product's initial rollout. In response, Google swiftly implemented fixes, providing clearer instructions for connecting to the standalone Antigravity ID, resolving Windows compatibility issues, and offering guidance for restoring lost configurations and extensions. The team also initiated frequent resets of Gemini quotas and introduced Gemini 3.5 Flash Low, an optimized model designed to reduce token consumption by approximately 45% for simpler software engineering tasks. Despite these rapid rectifications, the incident has fueled discussions within the developer community regarding Google's internal practices, particularly after a "codex" folder (referencing a competitor's tool) was observed during a live Antigravity 2.0 demo at the Google I/O keynote.
