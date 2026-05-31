@@ -1,0 +1,11 @@
+---
+title: "Anthropic Unleashes Opus 4.8: A Deep Dive into Its Code Capabilities and Cost Implications"
+description: "Anthropic's latest coding model, Opus 4.8, shows mixed benchmark results but promises improved coding ability. However, its new 'Ultra Code' features come with significant token cost concerns."
+date: 2026-05-30
+tags: ["anthropic","opus-4-8","code-ai","llm","software-development"]
+source: "https://www.youtube.com/watch?v=_goOUJkkxUk"
+author: "Theo - t3․gg"
+---
+Anthropic has unveiled Opus 4.8, positioning it as a significant step forward in AI-driven code generation, though with nuanced performance metrics. The model achieved a state-of-the-art score on SWE Bench Pro, a benchmark later critiqued for reliability issues including data contamination and problematic prompting. In DeepSWE tests, Opus 4.8 initially performed below Opus 4.7 within the Claude Code harness but demonstrated superior results against GPT-4 and GPT-55 when tested with a minimal system prompt in a different environment, highlighting prompt sensitivity. Users report improved question-asking capabilities and better TypeScript generation compared to GPT-55. The cost per task has decreased from $11 to $7.59, yet low-end token utilization has increased. A notable addition is "Ultra Code," combining X-high effort with "Dynamic Workflows" that leverage hundreds of sub-agents for complex tasks, reportedly burning $168 in tokens for a single prompt and exhausting a $100/month usage cap in under 30 minutes.
+
+Despite these advancements, Opus 4.8 exhibits persistent "Claude-isms," including instances of hallucinating about its own CLI and encountering parallelization challenges within its dynamic workflows, leading to token wastage and reduced reliability. In direct comparison, OpenAI's GPT-55 often provided faster and more dependable results for large-scale code ports, though it can exhibit over-indexing on context. Anthropic itself labels Opus 4.8 as a "modest but tangible improvement," acknowledging the model's high expense. The company indicates plans for more cost-effective future models and anticipates the release of "Mythos-class models" in the coming weeks, potentially by late June. The fast mode remains separately priced and costly, further underscoring the model's substantial token consumption.
