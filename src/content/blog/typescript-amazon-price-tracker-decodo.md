@@ -1,0 +1,11 @@
+---
+title: "Scaling Amazon Price Tracking: TypeScript, Decodo, and GitHub Actions Conquer Scraping Challenges"
+description: "A comprehensive guide details the creation of a robust Amazon price tracker using TypeScript, overcoming common web scraping hurdles. The solution leverages Decodo's API for reliable data extraction and GitHub Actions for automated historical tracking."
+date: 2026-05-23
+tags: ["typescript","web-scraping","github-actions","decodo","turso"]
+source: "https://www.youtube.com/watch?v=YfcgoV19lp4"
+author: "midudev"
+---
+A recent technical deep dive showcases the development of a resilient Amazon price tracker built with TypeScript, addressing the inherent complexities of web scraping. The tutorial begins by demonstrating the fragility of manual scraping methods, which quickly encounter rate limiting (HTTP 429), IP blocking, dynamic HTML content, and CAPTCHAs when interacting with sophisticated websites like Amazon. These challenges often lead to unreliable data or outright service interruptions, highlighting the need for a more robust approach.
+
+The presented solution dramatically improves scraping reliability and scalability by integrating Decodo's specialized Web Scraping API. Decodo abstracts away the infrastructure complexities, offering a vast network of over 115 million proxies across 195+ locations and pre-built templates for specific sites, such as Amazon Product pages. This allows developers to focus on data utilization rather than fighting anti-bot measures. The tracker retrieves structured JSON data, including product titles, prices, ratings, and stock information, without direct HTML parsing. Historical price data is then persisted in a Turso database and visualized through a local development environment. Automation is achieved via GitHub Actions, configuring a cron job to execute the tracking script daily, ensuring consistent data collection and a dynamic price history. The demonstrated implementation highlights cost-effectiveness, with a single execution costing mere cents, and offers a public open-source repository for community reference.
