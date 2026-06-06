@@ -1,0 +1,11 @@
+---
+title: "GitHub Copilot's New Token-Based Billing Triggers Immediate User Outcry Over Soaring Costs"
+description: "GitHub Copilot's new token-based pricing model, effective June 1st, has led to widespread user complaints of rapid credit depletion and significantly diminished subscription value. Developers are reporting substantial cost increases, questioning the viability of their current plans."
+date: 2026-06-06
+tags: ["github-copilot","ai-coding","pricing-model","developer-tools","generative-ai"]
+source: "https://www.youtube.com/watch?v=G00GDafBdP8"
+author: "midudev"
+---
+Effective June 1st, GitHub Copilot transitioned to a new token-based billing model, replacing its previous flat-rate subscription structure. This shift has immediately ignited a wave of discontent among developers, who report drastically accelerated consumption of their monthly credits. One user, on a $39/month Pro Plus subscription, reported exhausting 5000 of their 7000 allocated credits within approximately five hours on the first day of the new system. This rapid depletion occurred after performing around 40 prompts, primarily utilizing the resource-intensive Opus 4.8 model.
+
+The sentiment is echoed across developer communities on platforms like Twitter and Reddit, where numerous users are sharing similar experiences of unprecedented credit usage, some claiming up to 50% of their monthly quota consumed by a single complex prompt. Reports also include outright cancellations of higher-tier plans, with a 'Copilot Pro' subscription now equating to mere hours of intensive AI-assisted coding. In response to the backlash, GitHub has introduced a temporary 'flex allotment'—additional usage credits—which some speculate is a short-term measure to mitigate initial user impact and may be phased out. Concurrently, a new 'Max' plan, priced at $100/month and offering 2.9X more usage than Pro Plus, has been introduced, though new registrations for all plans are currently paused, citing a need to ensure a 'high-quality experience.' This abrupt change has led many to question the future value proposition of GitHub Copilot and the broader trend for AI-powered development tools.
