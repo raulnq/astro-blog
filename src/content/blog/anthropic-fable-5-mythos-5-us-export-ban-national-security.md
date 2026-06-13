@@ -1,0 +1,11 @@
+---
+title: "US Government Imposes Export Ban on Anthropic's Fable 5 and Mythos 5 Over National Security Concerns"
+description: "Anthropic's cutting-edge Fable 5 and Mythos 5 models have been abruptly restricted by a US government export control directive, suspending access for all foreign nationals. This unprecedented move, citing national security, raises significant questions for the frontier AI development landscape."
+date: 2026-06-13
+tags: ["ai models","export control","national security","anthropic","frontier ai"]
+source: "https://www.youtube.com/watch?v=W-kM56mf-Nw"
+author: "Theo - t3․gg"
+---
+Anthropic's advanced Fable 5 and Mythos 5 large language models have been hit with an immediate export control directive by the United States government, effectively suspending access for all foreign nationals, whether inside or outside the US. The directive, issued under national security authorities, also extends to foreign national Anthropic employees. To ensure compliance, Anthropic has stated it must disable Fable 5 and Mythos 5 for all its customers, as a mechanism to verify citizenship status is not yet in place. The directive was received by Anthropic on Friday at 5:21 p.m. Eastern Time.
+
+The government's concern reportedly stems from its awareness of a method to 'jailbreak' Fable 5, specifically by asking the model to read a codebase and identify software flaws. While Anthropic acknowledges a verbal demonstration of a 'narrow, non-universal jailbreak,' it disputes the severity, asserting that the identified vulnerabilities are simple and discoverable by other publicly available models, including OpenAI's GPT-5.5. Anthropic leadership expressed strong disagreement with the action, stating that applying this standard across the industry would 'essentially halt all new model deployment for all Frontier model providers.' The company emphasized its 'defense-in-depth' safeguards, extensive red-teaming efforts, and proactive monitoring, arguing that the risks posed by Fable 5 are comparable to existing models. Developers and industry observers have reacted with shock and concern over the abrupt intervention, highlighting the potential for significant operational and financial disruptions for companies relying on these models and the broader implications for AI innovation and policy.
