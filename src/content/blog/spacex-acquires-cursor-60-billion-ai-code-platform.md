@@ -1,0 +1,11 @@
+---
+title: "SpaceX Acquires Cursor for $60 Billion, Igniting AI Code Development Race"
+description: "SpaceX has completed its acquisition of the AI-powered code editor Cursor for a staggering $60 billion in an all-stock deal. This strategic move aims to create the 'most useful AI models in the world' and significantly escalates the competition in AI-driven software development."
+date: 2026-06-24
+tags: ["ai","spacex","cursor","acquisition","software-development"]
+source: "https://www.youtube.com/watch?v=M2r1UVIZ2Oo"
+author: "midudev"
+---
+SpaceX has finalized its acquisition of Cursor, the AI-powered code editor, in an all-stock transaction valued at an estimated $60 billion. This move follows a prior optional purchase agreement that would have otherwise obligated SpaceX to pay Cursor $10 billion if the acquisition wasn't completed by year-end. Leveraging its recent public listing, SpaceX has positioned this deal as a cornerstone for its ambition to "create the most useful AI models in the world." The acquisition's scale makes it one of the largest technology deals in history, dwarfing Microsoft's $7.5 billion purchase of GitHub in 2018, and Cursor has expressed excitement about uniting forces with SpaceX to advance the frontier of useful AI, promising significant improvements to its platform soon.
+
+The substantial valuation underscores Cursor's aggressive strategic roadmap, particularly its impending launch of "Origin," a direct competitor to GitHub for Git hosting, code review, and collaboration, slated for release this autumn. This initiative aims to establish a comprehensive "agential development infrastructure." Concurrently, a major joint effort between Cursor and SpaceX AI is underway to train a new, foundational AI model from scratch. Unlike previous Composer models built on existing architectures, this new model is being developed entirely in-house using over 100,000 GPUs, targeting a scale exceeding 1.5 trillion parameters—comparable to leading models like Opus and GPT 5.5—with the explicit goal of becoming the premier code model. The integration is already visible with the rebranding of Cursor's Composer to Grok Composer, signaling deeper synergy and the leveraging of SpaceX's formidable computational infrastructure, exemplified by its reported $1 billion per month compute capacity agreement with Google.
