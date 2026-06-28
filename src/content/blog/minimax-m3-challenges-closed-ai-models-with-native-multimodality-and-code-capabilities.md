@@ -1,0 +1,11 @@
+---
+title: "Minimx M3 Emerges as Frontier-Level Open-Source AI Model, Disrupting Closed Alternatives"
+description: "A new open-source model, Minimx M3, has launched with native multimodality and code capabilities that rival leading closed-source platforms. This article explores its advanced features, performance benchmarks, and cost-effectiveness for developers."
+date: 2026-06-28
+tags: ["open-source-ai","llms","multimodality","code-generation","developer-tools"]
+source: "https://www.youtube.com/watch?v=wseyhlSZf3Y"
+author: "midudev"
+---
+The AI landscape is witnessing an explosion of open-source models rapidly approaching the quality of top-tier closed-source solutions like Cloud Opus, but at a significantly reduced cost. This month, Minimx M3 has emerged as a notable contender, lauded for its native multimodality, accepting text, image, and video inputs—a capability previously exclusive to a handful of closed models from companies like OpenAI and Anthropic. The model also boasts "frontier-level" code generation capabilities, with benchmarks indicating it performs comparably to or even slightly above models like GPT 5.5 in some tests and just below Opus 4.7 in others, especially after architectural enhancements like MSA for context scaling.
+
+Demonstrating its prowess, Minimx M3 was put to the test in a real-world coding challenge to create a 3D Mario Kart-style game. It completed the task in 4 minutes and 42 seconds, generating 1685 lines of code, significantly outperforming Opus 4.8, which took 16 minutes and 45 seconds to produce 2000 lines. While Minimx M3's code was less structured (a single JavaScript file), its output was described as more "arcade-like" and engaging. In contrast, Opus 4.8 generated more architecturally sound and maintainable code with classes but resulted in a more "sober" and slower-to-develop game. Minimx M3 is available through new subscription tiers (Plus, Max, Ultra) offering substantial token quotas—billions of tokens per month—and can be seamlessly integrated into popular development environments like Clow Code and Cursor, allowing developers to leverage its advanced features within their existing workflows, often at a fraction of the cost of dedicated subscriptions to closed models. A 12% exclusive discount is also available on all plans.
