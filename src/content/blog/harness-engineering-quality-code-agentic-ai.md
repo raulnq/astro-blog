@@ -1,0 +1,11 @@
+---
+title: "Harness Engineering: The New Frontier for Quality Code with Agentic AI"
+description: "Technical coach Emily B introduces 'Harness Engineering,' a critical approach for leveraging Agentic AI to build and maintain high-quality, lasting software. Discover how guides and sensors create a continuous improvement flywheel for your codebase."
+date: 2026-06-28
+tags: ["agentic ai","code quality","harness engineering","software development","technical coaching"]
+source: "https://www.youtube.com/watch?v=JaiJ5wxdmCA"
+author: "Modern Software Engineering"
+---
+Technical coach Emily B of Saman Coaching highlights the growing demand for AI tools in software development, advocating for a shift beyond basic AI-powered line completion. She introduces 'Harness Engineering,' a concept essential for effectively utilizing Agentic AI to generate high-quality, sustainable code. Unlike simple autocomplete, which Emily finds distracting, Agentic AI, when properly constrained, can iterate towards functional and well-designed code. This approach, drawing from Bea Berkeler's work, emphasizes building a 'harness' comprising both 'guides' (feed-forward advice) and 'sensors' (feedback mechanisms) to ensure AI outputs align with desired coding standards and architectural principles.
+
+Harness engineering is particularly impactful for teams managing legacy code, where AI agents risk replicating existing poor design patterns. Emily B's coaching focuses on establishing a 'flywheel effect': starting with improving unit tests, formalizing successful design choices into agent guides (e.g., markdown files), and implementing sensors (e.g., build scripts, linters) to enforce quality post-generation. This iterative process allows the AI to learn and continuously refine its output, leading to a codebase whose design improves over time. She stresses the importance of developers owning and customizing their harnesses, adapting them to specific codebase needs and team preferences, rather than relying on generic solutions. This enables teams to postpone costly rewrites and re-focus efforts on innovation. Emily B is offering a webinar on test-driven development with an Agentic harness for interested developers.
