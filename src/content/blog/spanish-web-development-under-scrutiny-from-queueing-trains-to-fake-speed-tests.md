@@ -1,0 +1,11 @@
+---
+title: "Spanish Web Development Under Scrutiny: From Queueing Trains to Faked Speed Tests"
+description: "Recent observations highlight critical deficiencies in Spanish web development, affecting public services and commercial platforms alike. Issues range from poor user experience to severe security vulnerabilities and deceptive client-side scripting."
+date: 2026-06-28
+tags: ["webdev","security","ux","spain","vulnerabilities"]
+source: "https://www.youtube.com/watch?v=GHHpGwk02-k"
+author: "midudev"
+---
+The quality of web development in Spain is facing critical scrutiny, with recent examples revealing significant issues across various sectors. State-owned railway operator Renfe's website has reportedly implemented a third-party queueing system, `renfe.cubit.net`, to manage ticket purchases. Users are being placed in a 5-minute virtual waiting line, a practice typically associated with high-demand event ticketing rather than essential transport services, raising questions about the platform's scalability and architectural design choices. Concurrently, the Ministry of Culture's website has been compromised, exhibiting an exposed Cross-Site Scripting (XSS) vulnerability. This flaw is being exploited to redirect users searching via Google to pirated World Cup streaming sites, indicating a severe lapse in security protocols for a government digital asset.
+
+Further compounding these concerns is the emergence of a new Spanish telecom company, `esoladetelefonía.com`, whose website demonstrates fundamentally flawed and potentially deceptive practices. A 'premium' speed test feature on the site uses client-side JavaScript with `Math.random()` to simulate internet speeds between 50 and 250 Mbps, then algorithmically presents inflated promises of several times faster service with their own plans. This simulation entirely bypasses actual network performance metrics, pointing to deliberate misrepresentation. Additionally, the site's customer access portal exhibits an extremely outdated user interface reminiscent of 1990s web design, complete with broken localization features, such as displaying a French flag for the Arabic language option. These examples, initially brought to light by user 'Itón' on Twitter, underscore a disturbing trend of poor technical execution, security negligence, and ethical shortcuts in Spanish digital services.
