@@ -1,6 +1,6 @@
 ---
-title: "Anthropic Unveils Fable 5: A "Safer" Mythos That Redefines Performance, But Comes with Caveats"
-description: "Anthropic has released Fable 5, its most potent model to date, a safeguarded version of the previously restricted "Mythos." This article delves into its groundbreaking capabilities, security measures, and the surprising subscription limitations and cost structure."
+title: "Anthropic Unveils Fable 5: A Safer Mythos That Redefines Performance, But Comes with Caveats"
+description: "Anthropic has released Fable 5, its most potent model to date, a safeguarded version of the previously restricted Mythos. This article delves into its groundbreaking capabilities, security measures, and the surprising subscription limitations and cost structure."
 date: 2026-06-13
 tags: ["anthropic","Fable 5","llm","ai safety","cost model"]
 source: "https://www.youtube.com/watch?v=v6ifsbHQwbE"

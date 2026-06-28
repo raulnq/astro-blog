@@ -1,6 +1,6 @@
 ---
 title: "AI Poised to Redefine Software Development by 2028, Shifting Skill Paradigms and Unleashing New Opportunities"
-description: "An industry observer forecasts a radical evolution in software development, moving beyond language-specific expertise to focus on AI harnessing and strategic problem-solving. This shift is expected to render traditional skills obsolete while creating an "explosion" of new developer roles."
+description: "An industry observer forecasts a radical evolution in software development, moving beyond language-specific expertise to focus on AI harnessing and strategic problem-solving. This shift is expected to render traditional skills obsolete while creating an explosion of new developer roles."
 date: 2026-05-15
 tags: ["ai development","software evolution","developer skills","job market","future of tech"]
 source: "https://www.youtube.com/watch?v=5TowMqy_sb8"

@@ -1,6 +1,6 @@
 ---
-title: "AI-Driven "Vibe Coding" Reshapes Software Development Landscape, Redefining Roles and Market Dynamics"
-description: "A new era of software creation, dubbed "Vibe Coding," is lowering entry barriers and fundamentally altering developer roles, while posing new challenges for code quality and validation. This analysis explores its profound impact on the tech ecosystem."
+title: "AI-Driven Vibe Coding Reshapes Software Development Landscape, Redefining Roles and Market Dynamics"
+description: "A new era of software creation, dubbed Vibe Coding, is lowering entry barriers and fundamentally altering developer roles, while posing new challenges for code quality and validation. This analysis explores its profound impact on the tech ecosystem."
 date: 2026-06-13
 tags: ["artificial-intelligence","software-development","developer-roles","tech-ecosystem","prototyping"]
 source: "https://www.youtube.com/watch?v=GdJ6Rv4u4rc"

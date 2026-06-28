@@ -1,6 +1,6 @@
 ---
 title: "The Silent Threat: Prompt Technical Debt Undermines AI-Powered Software Development"
-description: "A new form of technical debt, "prompt technical debt," is silently degrading AI agent performance, posing unique challenges compared to traditional code debt. Experts advocate for minimalist prompting strategies and reliance on third-party tools to mitigate its subtle yet significant impact."
+description: "A new form of technical debt, 'prompt technical debt,' is silently degrading AI agent performance, posing unique challenges compared to traditional code debt. Experts advocate for minimalist prompting strategies and reliance on third-party tools to mitigate its subtle yet significant impact."
 date: 2026-06-03
 tags: ["technical-debt","ai-development","llms","prompt-engineering","software-architecture"]
 source: "https://www.youtube.com/watch?v=WnBx1Vi7M6w"

@@ -2,7 +2,7 @@
 title: "AI Agent Management: Why Your Management Style, Not Just Tools, Dictates Your Workflow"
 description: "A new perspective on AI agent interaction suggests that effective engagement hinges on management style rather than just tool selection, driven by task specification and trust."
 date: 2026-05-19
-tags: ["ai agents","software development","developer tools","management styles","ci/cd"]
+tags: ["ai agents","software development","developer tools","management styles","ci-cd"]
 source: "https://www.youtube.com/watch?v=7ME4R__IlLg"
 author: "DevOps & AI Toolkit"
 ---

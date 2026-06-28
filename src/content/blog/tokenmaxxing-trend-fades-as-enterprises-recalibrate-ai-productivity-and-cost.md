@@ -1,6 +1,6 @@
 ---
 title: "Tokenmaxxing Trend Fades as Enterprises Recalibrate AI Productivity and Cost"
-description: "A short-lived corporate trend dubbed "tokenmaxxing," which incentivized maximum AI token consumption, is reportedly on the decline. Initial enterprise enthusiasm for quantity over quality has given way to critical evaluation of cost-efficiency and genuine productivity."
+description: "A short-lived corporate trend dubbed 'tokenmaxxing,' which incentivized maximum AI token consumption, is reportedly on the decline. Initial enterprise enthusiasm for quantity over quality has given way to critical evaluation of cost-efficiency and genuine productivity."
 date: 2026-06-03
 tags: ["ai","development","enterprise","productivity","token-costs"]
 source: "https://www.youtube.com/watch?v=eYK2u61iNRk"
