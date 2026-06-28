@@ -2,7 +2,7 @@
 title: "Anthropic's Mythos 5 and Fable 5 Debut: Unprecedented AI Coding Prowess Comes at a Cost"
 description: "Anthropic has unveiled its highly anticipated Mythos 5 model series, introducing Fable 5 with unprecedented coding capabilities but also sparking debate over its usage policies and cost implications. Developers are rapidly adopting the new AI, transforming software development workflows despite significant inference expenses."
 date: 2026-06-14
-tags: ["large language models","ai coding","software development","ci/cd","anthropic"]
+tags: ["large language models","ai coding","software development","ci-cd","anthropic"]
 source: "https://www.youtube.com/watch?v=7IewbRdaBWI"
 author: "Theo - t3․gg"
 ---
