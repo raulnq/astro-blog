@@ -1,0 +1,11 @@
+---
+title: "Google DeepMind Faces Exodus: Nobel Laureate and Transformer Pioneer Departures Highlight AI Challenges"
+description: "Google DeepMind is grappling with significant leadership shifts and performance questions following the high-profile departures of Nobel laureate John Jumper and Transformer co-creator Noam Shazeer. These exits coincide with benchmark challenges for its flagship Gemini models, contrasting with promising advancements in its open-source Gemma initiative."
+date: 2026-06-28
+tags: ["google","deepmind","ai","llms","transformers"]
+source: "https://www.youtube.com/watch?v=DmOBOPKkTiI"
+author: "midudev"
+---
+Google DeepMind is experiencing significant personnel changes, with two of its most prominent researchers departing. John Jumper, a Nobel laureate recognized for his work on AlphaFold and protein structure prediction, has left after nine years to join Anthropic. Concurrently, Noam Shazeer, a co-lead on the Gemini models and a key architect behind the foundational Transformer architecture, announced his move to OpenAI. Shazeer described the decision as difficult, expressing pride in his Google team while looking forward to new challenges. These high-profile exits are seen by many as a substantial blow to Google's leadership in AI research.
+
+These departures coincide with growing concerns about Google's large language model (LLM) performance. Recent benchmarks, such as Data Curve's Deep Engineer, reportedly show Gemini 3.5 Flash and even 3.1 Pro lagging behind competitors like ZI's GLM 5.2. Industry observers speculate that Google's models may be hindered by outdated pre-training methodologies, with knowledge cut-off dates potentially indicating the use of older datasets, which could limit their general applicability despite being optimized for specific "agents." While struggling with its flagship models, Google's open-source Gemma model shows promising results. Notably, optimized versions of Gemma, some achieving impressive inference speeds like 254 tokens/second using WebGPU kernels with Fable 5, demonstrate Gemma's potential for efficient, local deployment, even running in browsers. This highlights a dichotomy in Google's AI strategy: high-profile research challenges versus strong open-source contributions and hardware optimization efforts.
