@@ -1,0 +1,11 @@
+---
+title: "ORIs Unveils Agent Span: A New Standard for Durable AI Agents in Production"
+description: "Agent Span, an open-source runtime environment by ORIs, is set to revolutionize the deployment of AI agents by addressing critical scalability and resilience challenges. Discover how this tool ensures agents survive crashes, maintain progress, and offer full operational visibility in real-world environments."
+date: 2026-06-29
+tags: ["ai agents","agent span","durable ai","production ai","runtime environment"]
+source: "https://www.youtube.com/watch?v=2F0OitFiNdI"
+author: "Tech With Lucy"
+---
+ORIs has introduced Agent Span, an open-source runtime environment engineered to tackle the inherent fragility of AI agents in production. While AI agents move beyond traditional chatbots to autonomously achieve complex goals—such as searching, comparing, and booking—their deployment often faces significant hurdles. Common frameworks frequently result in process crashes, loss of execution state, and a critical lack of visibility, rendering agents unreliable beyond local testing. Agent Span addresses these issues by compiling agent code into a durable workflow, detaching the execution state from the local process and hosting it on a dedicated server. This architectural shift guarantees agent survivability through crashes, preserves progress, and provides comprehensive insights into every step of the execution lifecycle, including the ability to pause and resume operations mid-run.
+
+The platform's efficacy was demonstrated through a Flask-based AI concept explainer web app, leveraging a local Llama 3.1 model via Olama. This setup illustrated Agent Span's capability to track an agent's full execution history—including LLM calls, tool executions, and timing—through its intuitive UI at `localhost:6767`. A critical test of durability involved simulating an agent crash; Agent Span successfully preserved the agent's state on the server, allowing the workflow to be seamlessly resumed and completed without any loss of progress or manual state restoration. Furthermore, Agent Span supports integration with agents built using other prominent frameworks like LangChain, Google ADK, and OpenAI Agents SDK, positioning it as a versatile solution for developers building robust and resilient AI agent applications for production.
