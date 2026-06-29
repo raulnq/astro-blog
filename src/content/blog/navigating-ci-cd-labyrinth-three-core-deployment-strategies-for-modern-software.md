@@ -2,7 +2,7 @@
 title: "Navigating the CI/CD Labyrinth: Three Core Deployment Strategies for Modern Software"
 description: "The optimal number of environments in a CI/CD pipeline is a persistent debate, with approaches ranging from direct-to-production to multi-stage verification. This article explores three common strategies, highlighting how project needs, delivery speed, and the cost of a production bug dictate the best choice."
 date: 2026-06-28
-tags: ["ci/cd","devops","deployment","software engineering","testing"]
+tags: ["ci-cd","devops","deployment","software engineering","testing"]
 source: "https://www.youtube.com/watch?v=A3pmg8_zPgg"
 author: "TechWorld with Nana"
 ---
