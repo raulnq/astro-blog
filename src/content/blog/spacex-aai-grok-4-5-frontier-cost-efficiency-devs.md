@@ -1,0 +1,11 @@
+---
+title: "SpaceX AAI's Grok 4.5 Drops, Promising Frontier-Tier Performance at Unprecedented Cost-Efficiency for Developers"
+description: "SpaceX AAI, in partnership with Cursor, has unveiled Grok 4.5, a new large language model making bold claims of matching top-tier competitors like Fable 5 for developer tasks at a fraction of the cost. Early access users report impressive performance, high token efficiency, and significant value."
+date: 2026-07-09
+tags: ["ai-models","llm","spacex-aai","cursor","developer-tools"]
+source: "https://www.youtube.com/watch?v=U3uX115I9sY"
+author: "Theo - t3․gg"
+---
+SpaceX AAI, in collaboration with Cursor, has launched Grok 4.5, a new large language model designed to set a new standard for developer-centric AI. The model, reportedly trained on 1.5 trillion parameters using Nvidia's GB300 GPUs, is making bold claims of achieving performance comparable to frontier models like Fable 5, but at a significantly reduced cost. Initial reports from early access testers highlight Grok 4.5's exceptional token efficiency and inference speed, averaging around 80 tokens per second, making it a compelling option for complex coding and agentic workflows.
+
+Benchmarks from sources like Artificial Analysis position Grok 4.5 as a strong contender, placing it neck-and-neck with GPT-5.5 and just below Fable 5 in general intelligence and coding benchmarks like DeepSWE. It achieved a 54 on the Artificial Analysis Intelligence Index, securing fourth place. Notably, its cost-effectiveness is a standout feature, priced at $2 per million input tokens and $6 per million output tokens for up to 200k context, often 5 to 10 times cheaper than Fable 5. This efficiency is further underscored by its low token consumption in coding tasks, utilizing approximately 2 million tokens per task compared to Fable's 7.2 million. While some qualitative assessments suggest it may not yet exhibit the advanced orchestration capabilities seen in a 'new generation' of models like Fable or GPT-5.6, its proficiency in multi-step software engineering tasks and even surprising aptitude for 3D modeling in game engines highlight a significant leap for SpaceX AAI. The company's transparency regarding an unintentional inclusion of Cursor's codebase in training data, which affected Cursor Bench results, has also been noted.
