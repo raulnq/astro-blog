@@ -1,0 +1,11 @@
+---
+title: "Developer Showcases GBT 56's 'Workhorse' Capabilities After Massive $200K Inference Spend"
+description: "An early access user of GBT 56 has revealed extraordinary capabilities after an estimated $180,000 to $240,000 in inference costs, demonstrating the model's prowess in complex software engineering and autonomous operations."
+date: 2026-07-10
+tags: ["gbt56","llm","ai development","code generation","autonomous agents"]
+source: "https://www.youtube.com/watch?v=mHG7K7QmQyU"
+author: "Theo - t3․gg"
+---
+Early access to OpenAI's GBT 56 has led one developer to conduct an unprecedented volume of inference, estimated between $180,000 and $240,000 over approximately 1.5 months. This extensive testing period, preceding the public release, revealed GBT 56 to be a highly capable 'workhorse' with significant improvements over its predecessor, GBT 55. Key advancements include superior intent understanding and the ability to sustain long-running, complex tasks for over 20 hours without requiring manual intervention or context resets. The model demonstrated exceptional proficiency in computer and browser use, enhanced through integrations like BrowserBase, enabling sophisticated agent-driven web navigation and system interactions.
+
+The rigorous testing encompassed 67 diverse projects, highlighting GBT 56's versatility and power. Notable achievements include the complete rewrite of a monolithic JavaScript project into a well-structured TypeScript codebase for 'Lakebed,' and full native rewrites of a React Native application into both AppKit/Swift and SwiftUI within 2-4 hours. The model also undertook ambitious cross-language rewrites, porting a Python-based agent to Rust and developing a TypeScript transpiler from a Go version into nearly 200,000 lines of Rust code, achieving up to an 18x speedup in its transpiler component, though an external analysis deemed it a broad prototype far from shippable. Beyond coding, GBT 56 showcased autonomous system administration capabilities, such as registering for cloud services, configuring remote machines via KVM, fixing corrupted boot partitions, and orchestrating PRs with sub-agents. These results underscore GBT 56's potential to automate intricate software development and operational tasks that were previously considered highly challenging or impossible for AI models.
