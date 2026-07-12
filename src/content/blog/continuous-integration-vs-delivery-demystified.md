@@ -1,0 +1,11 @@
+---
+title: "Beyond 'CICD': Experts Demystify Continuous Integration and Delivery"
+description: "Pioneers in software engineering recently dissected the nuanced relationship between Continuous Integration (CI) and Continuous Delivery (CD), challenging common industry misconceptions. The discussion clarifies that while intrinsically linked, these concepts serve distinct purposes in the software development lifecycle."
+date: 2026-07-12
+tags: ["continuous delivery","continuous integration","software development","devops","engineering practices"]
+source: "https://www.youtube.com/watch?v=BgMPW48FtGw"
+author: "Modern Software Engineering"
+---
+A recent panel discussion delved into the fundamental question of whether Continuous Integration (CI) and Continuous Delivery (CD) are synonymous, with experts asserting they are distinct yet inseparable. While many in the industry use the compound term 'CICD,' panelists argued that Continuous Delivery inherently encompasses Continuous Integration, making the combined term somewhat redundant. The core distinction lies in their purpose: CI is identified as a technical activity—the frequent merging of code changes into a shared mainline to ensure technical coherence. Conversely, CD is described as the outward-facing process of making integrated software available to users, carrying direct business meaning and enabling value realization.
+
+The discussion further clarified that 'continuous' in this context implies small, frequent increments rather than instantaneous updates, emphasizing a constant state of readiness. A critical misconception highlighted was that CI is not merely the use of automated tools like Jenkins or Bamboo, but rather the diligent practice of developers integrating their changes together *daily*. This principle directly challenges heavy branching strategies, which were framed as 'continuous fragmentation' rather than true integration. Drawing a profound analogy, experts likened continuous integration to the 'collapse of the wave function' in quantum mechanics, asserting it's the only method to establish a single, verifiable 'truth' about the system's state by regularly consolidating all changes. This ensures that the team maintains a unified vision of the software, thereby laying the indispensable foundation for effective Continuous Delivery.
