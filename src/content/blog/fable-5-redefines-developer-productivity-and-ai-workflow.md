@@ -1,5 +1,5 @@
 ---
-title: "Fable 5: A "New Era" AI Model Revolutionizes Developer Workflow and Productivity"
+title: "Fable 5: A 'New Era' AI Model Revolutionizes Developer Workflow and Productivity"
 description: "A software developer reports unprecedented productivity gains and a fundamental shift in practices following intensive use of the Fable 5 AI model. The experience details a hybrid AI orchestration strategy for dramatically enhanced output and cost efficiency."
 date: 2026-07-08
 tags: ["ai development","large language models","developer productivity","workflow automation","anthropic claude"]
