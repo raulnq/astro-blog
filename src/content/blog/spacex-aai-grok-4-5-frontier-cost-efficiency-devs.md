@@ -1,5 +1,5 @@
 ---
-title: "SpaceX AAI's Grok 4.5 Drops, Promising Frontier-Tier Performance at Unprecedented Cost-Efficiency for Developers"
+title: "SpaceXAI's Grok 4.5 Drops, Promising Frontier-Tier Performance at Unprecedented Cost-Efficiency for Developers"
 description: "SpaceX AAI, in partnership with Cursor, has unveiled Grok 4.5, a new large language model making bold claims of matching top-tier competitors like Fable 5 for developer tasks at a fraction of the cost. Early access users report impressive performance, high token efficiency, and significant value."
 date: 2026-07-09
 tags: ["ai-models","llm","spacex-aai","cursor","developer-tools"]
