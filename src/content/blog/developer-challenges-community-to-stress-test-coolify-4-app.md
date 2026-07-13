@@ -1,0 +1,11 @@
+---
+title: "Developer Challenges Community to Break Real-time Voting App Deployed with Coolify 4 and Open-Source Stack"
+description: "A developer has launched a real-time World Cup voting application, daring the tech community to stress-test its resilience. The project showcases a robust, cost-effective self-hosting strategy using Coolify 4 and an array of open-source tools."
+date: 2026-07-09
+tags: ["coolify","self-hosting","web-development","stress-testing","open-source"]
+source: "https://www.youtube.com/watch?v=005TjLbaaO4"
+author: "midudev"
+---
+A developer has launched "Mundial de clicks," a real-time web application allowing users to vote for their World Cup team with clicks, and has openly challenged the tech community to stress-test its resilience by attempting to "break" the server. This initiative serves as a practical demonstration of a robust, cost-effective, and entirely self-hosted deployment strategy, leveraging Coolify 4 on a Hostinger VPS. The application incorporates high-performance technologies like Dragonfly DB for ultra-fast data persistence, Umami for real-time analytics, and Cap Captcha for bot detection, all managed with a focus on optimization and security.
+
+The deployment process, showcased with Coolify 4, simplifies the orchestration of a complex Docker Compose setup, which includes a PostgreSQL database for Umami, dedicated services for Cap Captcha, and a persistent volume for Dragonfly DB. Coolify 4, presented as an open-source alternative to PaaS platforms like Vercel or Heroku, streamlines GitHub integration, automated SSL certificates, and pull request deployments. By utilizing Railpack, Coolify automatically detects project dependencies (Node.js, PNPM, Astro) for rapid builds. The chosen Hostinger KVM2 VPS plan offers an affordable foundation for this stack, demonstrating that enterprise-grade resilience and monitoring can be achieved at a monthly cost of less than €8. Furthermore, the application itself employs several optimizations, such as grouping multiple user clicks into a single API call and an invisible, self-hosted Cap Captcha, to enhance performance and thwart potential attacks. The "Mundial de clicks" project is entirely open-source, providing a transparent example for developers, with the challenge currently live at midu.link/click.
