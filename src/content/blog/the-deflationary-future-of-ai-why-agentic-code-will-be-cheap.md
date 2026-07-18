@@ -1,0 +1,11 @@
+---
+title: "The Deflationary Future of AI: Why Agentic Code Will Be Cheap and Impact Developer Careers"
+description: "An industry observer challenges concerns about rising agentic AI costs, predicting a deflationary trend driven by local models, efficiency, and falling compute prices. This shift redefines critical skills for a sustainable developer career."
+date: 2026-07-18
+tags: ["ai costs","agentic ai","local models","developer skills","technology trends"]
+source: "https://www.youtube.com/watch?v=7jpuPjiFRko"
+author: "Stefan Mischook"
+---
+An industry observer recently stirred discussion by asserting that the longevity of a developer career increasingly hinges on mastery of "fundamental system-level design and AI stacks" rather than mere coding proficiency. This perspective prompted a critical question from the community: whether "agentic code" would become prohibitively expensive in the future as current subsidies expire. In response, the observer posited that, contrary to such concerns, the operational costs of agentic AI are poised for a significant and sustained decline.
+
+This optimistic outlook is underpinned by several converging factors. Firstly, a move towards more efficient AI models, both cloud-based and local, is expected to optimize token usage. Secondly, a substantial shift is anticipated towards leveraging local, open-source models for heavy computational tasks, reserving cloud models for highly specialized applications. This strategy is reportedly echoed by figures like the Hugging Face CEO and aligns with Apple's hardware-driven focus on local AI processing via Apple Silicon. Furthermore, the inherent deflationary nature of technology—exemplified by historical price drops in consumer electronics like plasma TVs and the exponential growth of compute power in devices like smartphones—suggests that hardware and compute costs for AI will consistently fall. Complementing these trends, new tools are emerging, such as the startup Jetty, specifically designed to optimize token use and drive down operational expenses. Drawing on three decades of software development and market experience, the observer emphasizes that current high costs in AI infrastructure are a transient phase in a market rush, destined to settle into a far more economical landscape.
