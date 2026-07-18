@@ -1,0 +1,11 @@
+---
+title: "Veteran Developer Declares Programming Languages 'Old News' Amidst AI Revolution"
+description: "A seasoned developer argues that while programming remains a crucial skill, the emphasis on specific languages is diminishing. He posits that AI is redefining the developer's role towards higher-level system thinking and AI stack proficiency."
+date: 2026-07-18
+tags: ["ai","software-development","programming-languages","developer-roles","tech-trends"]
+source: "https://www.youtube.com/watch?v=rvPHDbKUUOs"
+author: "Stefan Mischook"
+---
+A long-time veteran of the software development industry recently articulated a provocative stance: the era of intensely focusing on individual programming languages like JavaScript or Python as a primary learning objective is "old news." This perspective comes from a professional who developed StudioWeb, an interactive training platform for coding, 15 years ago—a platform he still considers best-in-class for learning to code, underscoring his belief in the continued value of foundational programming skills. However, he now suggests that while learning *how* to program remains crucial, the sheer time investment in mastering specific languages is diminishing in value.
+
+The catalyst for this shift, according to the veteran, is the advent of AI. He advocates for a balanced view, avoiding both the "AI doomer" and "AI pumper" extremes, describing AI as "quite useful" but not a replacement for serious developers. Instead, AI is transforming the developer's role, much like past technological shifts such as the web standards movement with CSS. Modern developers, he argues, must transition from low-level coding requirements to a system-level thinking approach, encompassing client-server architecture, databases, and a rapidly evolving AI stack (cloud/local models, prompts, agent deployments, token management). He cautions against the misstep of firing developers in favor of AI, citing a recent Ford example, instead advocating for AI as a "power tool" to accelerate existing development workflows when integrated intelligently.
