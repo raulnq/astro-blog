@@ -1,0 +1,13 @@
+---
+title: "OpenAI's "Ultra" Reasoning Level Sparks Controversy Over Hidden Costs and Sub-Agent Implementation"
+description: "OpenAI's GPD 5.6 release introduces an "Ultra" reasoning level, drawing sharp criticism for its hidden sub-agent mechanics, high token consumption, and misleading classification. Developers are urged to exercise caution."
+date: 2026-07-18
+tags: ["openai","gpt-5.6","ultra","sub-agents","codeex"]
+source: "https://www.youtube.com/watch?v=t8hfOyF4ehw"
+author: "Theo - t3․gg"
+---
+OpenAI's recent GPD 5.6 release, featuring new models like Soul and Terra, has ignited significant debate, particularly regarding its new "Ultra" option. While positioned as a superior reasoning level alongside "Max," critics contend that Ultra is fundamentally misrepresented, functioning instead as a toggle for an advanced but flawed sub-agent system. This implementation, distinct from a true reasoning level, has been criticized for causing considerable confusion among users, leading to inefficient resource utilization and unexpectedly high token consumption.
+
+The crux of the issue lies in Codeex's V2 sub-agent implementation, which Ultra leverages. This V2 system defaults to sharing the full historical context with all spawned sub-agents, significantly increasing token burn and risking context pollution. Furthermore, V2 allows for infinitely nested sub-agents without a built-in depth limit, creating a high potential for uncontrolled execution and exorbitant costs, with users reporting the exhaustion of 5-hour rate limits in minutes. This behavior stands in contrast to Anthropic's "Ultra Code," which utilizes a "workflow" approach where sub-agents are programmatically defined with distinct phases and termination points, offering greater control and predictability. Critics suggest OpenAI has adopted the less effective user experience of presenting Ultra as a reasoning level without incorporating the robust implementation of controlled workflows.
+
+Despite some real-time UI adjustments by OpenAI in response to feedback, the underlying sub-agent architecture remains a concern. The temporary removal of OpenAI's 5-hour rate limit further compounds the risk, potentially allowing Ultra to deplete weekly quotas much faster without the previous soft warning. The community advocates for a redesign where Ultra is treated as a distinct "skill" or "switch" rather than a reasoning level, coupled with more robust, workflow-driven sub-agent management that allows for setting individual reasoning levels and clear termination conditions. Users are advised to exercise caution with Ultra or consider alternative programmatic sub-agent strategies.
