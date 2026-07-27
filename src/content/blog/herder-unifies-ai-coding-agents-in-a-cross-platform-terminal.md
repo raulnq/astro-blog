@@ -1,0 +1,11 @@
+---
+title: "Herder Unifies AI Coding Agents in a Cross-Platform Terminal"
+description: "A new open-source terminal multiplexer, Herder, is rapidly gaining traction for its intuitive orchestration of multiple AI coding agents from a single interface. This innovative tool promises to streamline AI-assisted development workflows across Windows, Linux, and macOS."
+date: 2026-07-27
+tags: ["ai-agents","terminal","open-source","developer-tools","workflow"]
+source: "https://www.youtube.com/watch?v=Bu1kOdrXmoc"
+author: "Fazt Code"
+---
+Herder, an open-source terminal tool, is making significant waves within the developer community for its robust capability to manage and orchestrate diverse AI coding agents from a centralized interface. Unlike traditional terminal multiplexers such as TMAX, Herder prioritizes ease of use with full mouse support and a significantly flatter learning curve. It supports a wide array of popular AI agents, including Cloud Code, GPT Codex, Open Code, Kimy Code, Devin CLI, and Copilot CLI, offering developers a unified environment irrespective of their chosen AI provider. Notably, Herder operates as a layer within existing terminals (e.g., Windows Terminal, Alacritty, Kitty), rather than being a terminal itself, ensuring consistent functionality and configurations across Windows, Linux, and macOS.
+
+Beyond basic multiplexing, Herder introduces features that significantly enhance developer productivity. It facilitates seamless communication between different AI agents, allows for tabbed interfaces and split panes, and supports persistent sessions, ensuring work is not lost even if the terminal is closed. The platform's extensibility is a core strength, featuring a plugin architecture akin to modern code editors like VS Code or NeoBin, enabling users to add functionalities like file viewers or Git diff tools. A unique 'skill' system further empowers agents to read outputs from one another, pass instructions, and dynamically manipulate the terminal layout. This makes Herder a compelling, lightweight, and flexible alternative to vendor-specific desktop AI agent clients, positioning it as a pivotal tool for orchestrating complex AI-driven development tasks.
