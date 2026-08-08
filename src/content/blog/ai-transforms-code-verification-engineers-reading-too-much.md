@@ -1,0 +1,13 @@
+---
+title: "AI Transforms Code Verification: Why Engineers Should Generate More 'Slop' Code, Not Less"
+description: "A provocative take suggests that developers are reading too much production code and not leveraging AI to generate enough disposable "slop" code for robust verification, even in mission-critical systems. This redefines engineering practices in the age of cheap, AI-generated code."
+date: 2026-07-24
+tags: ["ai","code-generation","software-engineering","verification","developer-workflow"]
+source: "https://www.youtube.com/watch?v=434cG4g5KLE"
+author: "Theo - t3․gg"
+---
+A recent analysis challenges the conventional wisdom in software development, asserting that engineers, across the spectrum from hobby projects to life-sustaining infrastructure, are often reading too much code and not generating enough. The core premise, sparked by the advent of AI's ability to produce code cheaply and at scale, advocates for a significant shift in workflow: prioritizing the generation of vast quantities of disposable, or "slop," code primarily for enhanced verification and exploration, rather than solely focusing on the review of production-bound code.
+
+The argument centers on the changing economics of code creation. Historically, every line of code represented significant effort, making extensive "slop" for ancillary tasks impractical. With AI, code generation is virtually free, rendering it a powerful, underutilized resource for testing, debugging, and probing system assumptions. The analysis posits that even for the most critical "death-tier" applications, such as pacemaker firmware, engineers should be generating orders of magnitude more "slop" — custom debuggers, test harnesses, and verification tools — to rigorously ensure the integrity of critical code, rather than assuming human-intensive review alone is sufficient.
+
+This approach suggests a new balance in the developer's daily output, moving from a past ratio of perhaps reading five lines for every one written, to generating thousands of lines for every one merged into production. The majority of this AI-generated code, deemed "unlovable slop," is never intended for production, instead serving as a potent, cheap mechanism to validate complex systems and answer critical questions that were previously too time-consuming to address. The call to action for engineers is to embrace this "infinite code" capability, not to compromise the quality of core applications, but to create more robust, verifiable systems by leveraging AI as a force multiplier for verification and experimental coding.
