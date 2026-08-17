@@ -1,6 +1,6 @@
 ---
 title: "Anthropic's Claude Tag Heralds a New Paradigm for Team-Level LLM Integration"
-description: "Anthropic introduces Claude Tag, an "org-level harness" that integrates AI directly into team workflows, setting a new standard for LLM interaction and context management. Andrew Karpathy hails it as a major UI/UX shift, despite initial skepticism over its Slackbot form factor."
+description: "Anthropic introduces Claude Tag, an 'org-level harness' that integrates AI directly into team workflows, setting a new standard for LLM interaction and context management. Andrew Karpathy hails it as a major UI/UX shift, despite initial skepticism over its Slackbot form factor."
 date: 2026-06-28
 tags: ["llms","ai-agents","team-collaboration","ux-ui","anthropic"]
 source: "https://www.youtube.com/watch?v=tOC2N0B9lio"

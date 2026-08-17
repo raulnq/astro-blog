@@ -1,6 +1,6 @@
 ---
 title: "Navigating the AI Era: Agentic Engineering, Developer Burnout, and the Evolving Job Market"
-description: "A recent tech stream delved into the rapid shifts in software development, highlighting the distinction between "vibe coding" and "agentic engineering" and the mental toll of constant AI-driven decision-making. The discussion also covered career strategies and the future of tech education in an AI-dominated landscape."
+description: "A recent tech stream delved into the rapid shifts in software development, highlighting the distinction between 'vibe coding' and 'agentic engineering' and the mental toll of constant AI-driven decision-making. The discussion also covered career strategies and the future of tech education in an AI-dominated landscape."
 date: 2026-07-18
 tags: ["ai","software-development","agentic-engineering","career","developer-workflow"]
 source: "https://www.youtube.com/watch?v=z7xcAj4z0Jw"

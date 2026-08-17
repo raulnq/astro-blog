@@ -1,6 +1,6 @@
 ---
 title: "Alibaba Unleashes Qwen 3.8 Max: A Self-Evolving Code Generation Powerhouse Challenging Anthropic"
-description: "Alibaba's latest Qwen 3.8 Max model, featuring 2.4 trillion parameters and "self-evolving" capabilities, emerges as a formidable open-weight competitor in code generation and full software development. Benchmarks place it in direct contention with Anthropic's top-tier models, showcasing its potential for large-scale projects and iterative workflows."
+description: "Alibaba's latest Qwen 3.8 Max model, featuring 2.4 trillion parameters and 'self-evolving' capabilities, emerges as a formidable open-weight competitor in code generation and full software development. Benchmarks place it in direct contention with Anthropic's top-tier models, showcasing its potential for large-scale projects and iterative workflows."
 date: 2026-08-06
 tags: ["alibaba","qwen-3.8-max","code-generation","large-language-models","open-weight"]
 source: "https://www.youtube.com/watch?v=jKAlNHosWkw"

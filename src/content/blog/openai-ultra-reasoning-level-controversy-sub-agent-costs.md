@@ -1,6 +1,6 @@
 ---
-title: "OpenAI's "Ultra" Reasoning Level Sparks Controversy Over Hidden Costs and Sub-Agent Implementation"
-description: "OpenAI's GPT 5.6 release introduces an "Ultra" reasoning level, drawing sharp criticism for its hidden sub-agent mechanics, high token consumption, and misleading classification. Developers are urged to exercise caution."
+title: "OpenAI's '0'Ultra' Reasoning Level Sparks Controversy Over Hidden Costs and Sub-Agent Implementation"
+description: "OpenAI's GPT 5.6 release introduces an 'Ultra' reasoning level, drawing sharp criticism for its hidden sub-agent mechanics, high token consumption, and misleading classification. Developers are urged to exercise caution."
 date: 2026-07-18
 tags: ["openai","gpt-5.6","ultra","sub-agents","codeex"]
 source: "https://www.youtube.com/watch?v=t8hfOyF4ehw"

@@ -1,5 +1,5 @@
 ---
-title: "Veteran Developer Debunks AI Doom, Positions "Harnessing" as AI's True Value Frontier"
+title: "Veteran Developer Debunks AI Doom, Positions 'Harnessing' as AI's True Value Frontier"
 description: "A seasoned software developer with three decades of experience challenges prevalent AI doomer narratives, asserting AI's transformative potential lies not in core models but in their sophisticated orchestration. This perspective redefines the future skill set for developers."
 date: 2026-06-28
 tags: ["ai","software-development","harnessing","developer-insights","tech-trends"]

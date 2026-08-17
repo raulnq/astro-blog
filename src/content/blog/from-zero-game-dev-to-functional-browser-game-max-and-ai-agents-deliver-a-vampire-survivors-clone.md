@@ -1,6 +1,6 @@
 ---
-title: "From Zero Game Dev to Functional Browser Game: Max and AI Agents Deliver a "Vampire Survivors" Clone"
-description: "A recent live stream showcased the rapid development of a browser-based, "Vampire Survivors-like" game, leveraging AI agents to overcome the developer's lack of prior game development experience. The session highlighted an agent-driven workflow, transitioning from initial research to a fully playable prototype in under two hours."
+title: "From Zero Game Dev to Functional Browser Game: Max and AI Agents Deliver a 'Vampire Survivors' Clone"
+description: "A recent live stream showcased the rapid development of a browser-based, 'Vampire Survivors-like' game, leveraging AI agents to overcome the developer's lack of prior game development experience. The session highlighted an agent-driven workflow, transitioning from initial research to a fully playable prototype in under two hours."
 date: 2026-07-27
 tags: ["ai-development","game-dev","phaser","typescript","agentic-ai"]
 source: "https://www.youtube.com/watch?v=dpj_SyxjPCg"

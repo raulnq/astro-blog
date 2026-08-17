@@ -1,6 +1,6 @@
 ---
-title: "AI "Vibe Coding" Accelerates AWS Learning Game Development to 30 Minutes on Immer Platform"
-description: "A developer leveraged Immer's AI-powered "Vibe Coding" to create a Super Mario-inspired AWS learning game in just 30 minutes. This showcases the platform's ability to rapidly build, iterate, and monetize complex applications without extensive coding."
+title: "AI 'Vibe Coding' Accelerates AWS Learning Game Development to 30 Minutes on Immer Platform"
+description: "A developer leveraged Immer's AI-powered 'Vibe Coding' to create a Super Mario-inspired AWS learning game in just 30 minutes. This showcases the platform's ability to rapidly build, iterate, and monetize complex applications without extensive coding."
 date: 2026-06-14
 tags: ["ai development","low-code","game development","aws learning","immer"]
 source: "https://www.youtube.com/watch?v=FXIl2mAtuBA"

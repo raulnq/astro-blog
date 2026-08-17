@@ -1,6 +1,6 @@
 ---
 title: "OpenAI's GPT-5.6 Surfaces with Frontier Capabilities, Access Curtailed by Government"
-description: "OpenAI has reportedly introduced GPT-5.6, a new suite of models led by "Sol Ultra," demonstrating superior performance in benchmarks. However, its public release is limited due to government restrictions, sparking debates on access to advanced AI."
+description: "OpenAI has reportedly introduced GPT-5.6, a new suite of models led by 'Sol Ultra,' demonstrating superior performance in benchmarks. However, its public release is limited due to government restrictions, sparking debates on access to advanced AI."
 date: 2026-06-29
 tags: ["openai","gpt-5.6","ai-models","government-regulation","open-source-ai"]
 source: "https://www.youtube.com/watch?v=rT0JdCAp2N8"

@@ -1,6 +1,6 @@
 ---
 title: "Loop Engineering: The AI Agent Paradigm Shift Challenging Traditional Prompting"
-description: "A new trend dubbed "Loop Engineering" is gaining traction, empowering AI agents to autonomously complete complex, multi-stage tasks over extended periods. This approach redefines human interaction with AI, moving beyond singular prompts towards continuous, goal-driven iteration."
+description: "A new trend dubbed 'Loop Engineering' is gaining traction, empowering AI agents to autonomously complete complex, multi-stage tasks over extended periods. This approach redefines human interaction with AI, moving beyond singular prompts towards continuous, goal-driven iteration."
 date: 2026-06-14
 tags: ["ai agents","loop engineering","autonomous ai","software development","prompt engineering"]
 source: "https://www.youtube.com/watch?v=VGBeOj0we6c"

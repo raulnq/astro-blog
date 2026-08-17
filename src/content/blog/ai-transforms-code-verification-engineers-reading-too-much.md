@@ -1,6 +1,6 @@
 ---
 title: "AI Transforms Code Verification: Why Engineers Should Generate More 'Slop' Code, Not Less"
-description: "A provocative take suggests that developers are reading too much production code and not leveraging AI to generate enough disposable "slop" code for robust verification, even in mission-critical systems. This redefines engineering practices in the age of cheap, AI-generated code."
+description: "A provocative take suggests that developers are reading too much production code and not leveraging AI to generate enough disposable 'slop' code for robust verification, even in mission-critical systems. This redefines engineering practices in the age of cheap, AI-generated code."
 date: 2026-07-24
 tags: ["ai","code-generation","software-engineering","verification","developer-workflow"]
 source: "https://www.youtube.com/watch?v=434cG4g5KLE"

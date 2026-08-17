@@ -2,7 +2,7 @@
 title: "From Laptop to Millions: Unpacking the Modern CI/CD Pipeline"
 description: "Explore how modern CI/CD pipelines transform software deployment from a risky, manual task into a seamless, automated process. This deep dive reveals the critical steps ensuring fast, safe, and predictable delivery for applications serving millions."
 date: 2026-07-27
-tags: ["ci/cd","devops","software development","deployment","automation"]
+tags: ["ci-cd","devops","software development","deployment","automation"]
 source: "https://www.youtube.com/watch?v=ddDJxFnv-qs"
 author: "TechWorld with Nana"
 ---
