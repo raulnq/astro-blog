@@ -1,0 +1,9 @@
+---
+title: "Benchmarks Reveal macOS APFS Bottlenecks for Agentic Development, Linux Alternatives Excel"
+description: "New benchmarks highlight critical performance bottlenecks in Apple's APFS for modern agentic development, revealing significant gains by switching to optimized Linux file systems. Discover how file system choices dramatically impact crucial developer workflows like code cloning and dependency installation."
+date: 2026-08-23
+tags: ["file systems","macos","linux","performance","agentic dev"]
+source: "https://www.youtube.com/watch?v=4wVNFaFDIn8"
+author: "Theo - t3․gg"
+---
+Recent findings reveal that Apple's APFS file system significantly bottlenecks performance for modern agentic development workflows, particularly on macOS. Benchmarks comparing an M1 Max MacBook with a Linux machine demonstrate stark disparities in common developer tasks. For instance, deleting project folders with `git clean` took over 35 seconds on macOS APFS, while the same operation completed in under 7.5 seconds on a Linux machine running EXT4. Similarly, a cached `pnpm install` on a large project finished in under 10 seconds on Linux, whereas macOS was less than halfway complete after 35 seconds, with the majority of time spent on post-install scripts and file linking rather than network operations. Further tests showed an M1 Max performing comparably to a 550MHz throttled Linux box for install speeds, underscoring APFS's profound inefficiencies in handling numerous small files, frequent cloning, and worktree operations. APFS's architectural compromises appear ill-suited for these modern development patterns, leading to significant performance degradation.
