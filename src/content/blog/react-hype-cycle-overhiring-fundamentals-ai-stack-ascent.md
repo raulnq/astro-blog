@@ -1,0 +1,11 @@
+---
+title: "The React Hype Cycle: Overhiring, Fundamentals, and the AI Stack's Ascent"
+description: "The pervasive buzz around React has waned, prompting a re-evaluation of developer market dynamics and the imperative for continuous skill evolution. This shift underscores the timeless principles of supply and demand in the tech industry."
+date: 2026-08-23
+tags: ["react","ai stack","developer skills","market trends","supply and demand"]
+source: "https://www.youtube.com/watch?v=3II_xLAxHDY"
+author: "Stefan Mischook"
+---
+The once-ubiquitous buzz surrounding React, the JavaScript library for building user interfaces, has noticeably diminished in recent years, despite its continued widespread adoption and unchanged core functionality. This shift is primarily attributed to significant overhiring of React developers over the past four to six years, leading to a saturated market, particularly for junior roles. A previous demand surge allowed individuals with minimal training, such as boot camp graduates, to secure positions. However, a critical takeaway for many aspiring developers was the insufficient emphasis on foundational web development principles—HTML5, CSS, JavaScript, the DOM, and the request/response model—which are essential for effective high-level framework implementation.
+
+This evolution in the developer landscape is fundamentally driven by market economics: scarcity dictates value. As technologies like React become commonplace, the supply of developers increases, making it challenging for new entrants to gain traction. The current high-demand area, as observed from a 2026 perspective, is identified as the 'AI stack,' encompassing expertise in various models (local, cloud, frontier), AI harnesses, orchestration, RAG, and vector databases. This move echoes past technological transitions—such as the rise of the web—where early adopters of emerging fields reaped significant career benefits. The AI stack's inherent complexity creates a higher barrier to entry, translating into increased value and more lucrative opportunities for developers who embrace these cutting-edge skills.
