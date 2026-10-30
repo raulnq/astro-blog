@@ -1,0 +1,11 @@
+---
+title: "Alibaba Unleashes Qwen 3.8: A New Benchmark for Local AI Performance"
+description: "Alibaba Cloud has released Qwen 3.8 with open weights, setting a new standard for local AI models. This multimodal powerhouse promises state-of-the-art performance, challenging proprietary giants with its accessibility and advanced capabilities."
+date: 2026-08-23
+tags: ["open-source-ai","llm","multimodal-ai","local-inference","alibaba"]
+source: "https://www.youtube.com/watch?v=Msi1EgEx-WE"
+author: "midudev"
+---
+Alibaba Cloud has officially released the open weights for Qwen 3.8, positioning it as a major breakthrough for local artificial intelligence deployments. While a massive 240-billion parameter version is available, the most anticipated release is the 27-billion parameter multimodal model, designed for practical local execution. Qwen 3.8, which succeeds and surpasses Qwen 3.7 Plus, is a dense model that excels particularly in real-world coding scenarios and office workflows. It boasts an impressive native context window of 262,000 tokens, expandable up to an industry-leading 1 million tokens, and is licensed under Apache 2.0, making it an attractive option for developers and researchers.
+
+Initial benchmarks place Qwen 3.8's performance on par with state-of-the-art models like Opus 4.6 Max, a remarkable feat for a locally deployable solution. Optimal local inference at 4-bit quantization typically requires 24GB of VRAM (e.g., NVIDIA RTX 4090/3090, AMD RX 7900 XTX, or Apple M4 Pro with 32GB unified memory), achieving rates up to 200 tokens per second on high-end hardware. For full 100% precision, 54GB of VRAM or equivalent unified memory is needed. The model also offers configurable 'thought effort,' with a recommendation to adjust from the default maximum setting for optimal efficiency. Notably, Qwen 3.8 has quickly surpassed Meta's recently released Muse Glimmer in hands-on testing, despite Muse Glimmer's initial strong showing against Qwen 3.6. The availability of open weights has also led to the emergence of uncensored variants, though these are highlighted as research tools due to their potential 'clumsiness' in general-purpose applications, placing full responsibility on the user.
