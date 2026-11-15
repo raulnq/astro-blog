@@ -1,5 +1,5 @@
 ---
-title: "AI Infrastructure Bubble: Elon Musk Warns of Impending "Neocloud" Collapse Amidst Tightening Credit and GPU Hoarding"
+title: "AI Infrastructure Bubble: Elon Musk Warns of Impending 'Neocloud' Collapse Amidst Tightening Credit and GPU Hoarding"
 description: "A looming financial crisis is predicted for specialized AI compute providers, as credit markets dry up and unsustainable business models face harsh realities. Elon Musk and industry experts draw parallels to the dot-com bust, cautioning that while AI technology thrives, many infrastructure companies may not survive."
 date: 2026-10-30
 tags: ["ai","infrastructure","bubble","gpus","investment"]
