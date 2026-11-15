@@ -1,0 +1,11 @@
+---
+title: "AI Model Fine-Tuned to Replicate Personal Teaching Style for Cloud Computing"
+description: "An experiment successfully fine-tuned an AI model to mimic a specific teaching style for cloud computing concepts, leveraging LoRA on Cruzo Intelligence Foundry. The initiative demonstrated the potential for AI to adopt nuanced pedagogical approaches, delivering explanations with a consistent structure and tone."
+date: 2026-11-15
+tags: ["ai-fine-tuning","llm","education-tech","cloud-computing","lora"]
+source: "https://www.youtube.com/watch?v=NLT3fUsst0k"
+author: "Tech With Lucy"
+---
+An independent experiment successfully demonstrated the replication of a personalized technical teaching style through AI fine-tuning, leveraging Cruzo Intelligence Foundry. The objective was to train an AI model to explain cloud computing concepts with the presenter's signature approach: simplicity, practical examples, and a clear, three-part structure for explanations. Utilizing Low-Rank Adaptation (LoRA), the process involved fine-tuning an existing Llama 3.1 8B Instruct model.
+
+The training dataset comprised 100 proprietary cloud computing questions paired with meticulously crafted answers, each adhering to a three-part format: a concise explanation, a practical real-world example, and a knowledge-check question. This structured data, converted into JSONL, was instrumental in shaping the model's output. Serverless fine-tuning on Cruzo managed the GPU resources, culminating in a trained adapter that fused with the base model for deployment via a self-served API endpoint. Testing revealed that the fine-tuned model consistently adopted the desired three-part structure, maintained a simple tone, and effectively incorporated real-world scenarios, differentiating significantly from the dense, textbook-like responses of the base model. While not achieving 100% exact verbatim replication, the model demonstrated a high degree of fidelity to the intended teaching methodology, validating fine-tuning's utility for achieving specific AI behaviors beyond what basic prompt engineering can deliver. Other applications for fine-tuning include developing specialized support assistants or categorizing customer inquiries. Pricing models involved token-based charges for training and GPU-hour billing for model deployment.
