@@ -1,0 +1,11 @@
+---
+title: "Gemini 4 Carbon Deemed 'Unusable' by Developer, Cited As Five Times Slower Than Competitors"
+description: "A prominent developer has retracted earlier leniency towards Gemini 4 Carbon, revealing the model to be five times slower than competitors with critical hosting infrastructure flaws. This revised assessment declares the model unusable for professional engineering tasks."
+date: 2026-11-15
+tags: ["gemini","google deepmind","llm","performance","developer tools"]
+source: "https://www.youtube.com/watch?v=5BrgFY5jIn4"
+author: "Theo - t3․gg"
+---
+A recent in-depth analysis has sharply revised the perception of Google's Gemini 4 Carbon model, with a prominent developer now labeling it 'unusable' for real-world engineering work. Despite an initial, less critical review, further scrutiny revealed the model to be consistently five times slower than its counterparts in comparable tasks. A significant contributing factor is an observed 11-second latency from when a request hits Google's servers to when processing actually begins. This pre-processing delay, compounded by a higher number of steps required to complete tasks and a forthcoming price doubling on December 1st, positions Gemini 4 Carbon at a considerable disadvantage against competing models.
+
+Beyond raw speed, the analysis highlights severe infrastructure deficiencies, including an unreliable caching system that reportedly fails to read recently written data up to 30% of the time, or serves outdated information. These issues, along with a perceived lack of developer-centric design choices in the API, lead to an exceptionally frustrating user experience. The assessment concludes that Gemini 4 Carbon’s poor performance and prohibitive cost make it an inferior choice for developers. Strong recommendations are made to avoid the model in favor of more performant and reliable alternatives such as Claude, underscoring a fundamental call for Google DeepMind to address these critical backend and infrastructure problems before their AI offerings can be considered viable for professional use.
